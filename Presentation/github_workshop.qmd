@@ -1,0 +1,19 @@
+---
+title: "Using git and github"
+subtitle: "A practical introduction"
+date: 02-18-2026
+date-format: DD/MM/YYYY
+author: Daniel Thédié
+institute: Chronopsychiatry group
+format:
+  revealjs:
+    self-contained: true
+    slide-number: true
+    preview-links: auto
+    code-block-height: 600px
+    footer: ''
+---
+
+## Working with git - workflow
+
+![](./figures/git_principle.svg)
