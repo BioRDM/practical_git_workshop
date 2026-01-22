@@ -1,10 +1,9 @@
 ---
-title: "Using git and github"
+title: "git and Github"
 subtitle: "A practical introduction"
 date: 02-18-2026
 date-format: DD/MM/YYYY
 author: Daniel Thédié
-institute: Chronopsychiatry group
 format:
   revealjs:
     self-contained: true
@@ -14,6 +13,145 @@ format:
     footer: ''
 ---
 
+# Basics of git and github
+
+## What is a git repository?
+
+- A folder
+- A `.git` folder that contains all the file history
+- Changes are not recorded in real time, only by "committing" files (= adding changes to history)
+- Each commit records a "diff", i.e. what has changed between the previous and current version
+- Each commit is identified by a unique "hash" (randomly generated), e.g. `87c0c975daf0643d59a01222b312662d347e0bfa`
+  - Shown on github as the first 7 characters for readability: `87c0c97`
+
+## Why not make a "google docs" for code?
+
+- Google docs is data sharing without data management
+- Using Github to share code requires extra work (at least initially)
+- The process makes the user decide...
+  - *What* they share (which files)
+  - *When* they share (working on files locally and pushing them when ready)
+  - *Why* they share (for other people to use the code, to work on new developments...)
+
 ## Working with git - workflow
 
 ![](./figures/git_principle.svg)
+
+## How to
+
+- Create repository on Github
+- Copy link
+- Clone (command line, Github desktop, Rstudio?)
+- Add some code files to the repository
+  - Notice they appear in the RStudio git tracking window
+- Stage the newly added files
+- Commit (with a message)
+- Push
+  - Committed files are now on Github
+
+## The Readme file
+
+A *practical* overview of the repository, in **markdown** format
+
+- What can be found in here?
+- What's the purpose of the code
+  - If possible, describe inputs and outputs
+- How to use the code
+  - Which scripts to run
+- Who are the authors and how to contact them?
+
+Edit your own Readme file!
+
+<!-- Have a quick look: file history browsing in Github (show an example with more commits in nocturn repo) -->
+
+## git tips
+
+- `.gitignore` - list file names that should not be tracked
+  - Use wildcards, e.g. `*.docx` ignores all .docx files
+
+## Branches
+
+<!-- Explain principle here with a figure -->
+
+## Branches in practice
+
+- Create a new branch "dev" in your repository
+- Make some changes, commit
+- Switch between branches locally
+- Have a look at the two branches in Github
+- Checkout the dev branch
+- Next steps later
+
+## Short break
+
+<!-- 5 min break, I'm around for troubleshooting and questions -->
+
+# Good coding practices
+
+## Code modularity
+
+<!-- How does it help, how is it achieved -->
+<!-- Would be great if I had a minimal example of a short, hard to understand script (with repetitions?) that can be split into functions... -->
+
+- Makes code more "human-readable"
+
+## How to create a function
+
+- A "processing unit" with clear inputs and outputs
+- Can be described simply with a verb + a noun (e.g. "load_data", "set_ema_period")
+- In general shorter is better, but don't worry too much about it
+- Sometimes very short (1 line!) - worth it if it makes it easy to do a precise action rather than have to copy/paste complicated code
+
+```{.r}
+# In here, add a simple but *meaningful* example, with input(s) and returned outputs (don't bother with implicit return)
+```
+
+## Splitting code between different files
+
+<!-- How to `source()` files; how to decide which function goes where (i.e. project structure) -->
+
+## Documenting code
+
+<!-- Show examples of each, with *good*/*bad* comparisons where needed -->
+
+- If commenting inside the code, focus on *why* rather than *what*
+- Docstrings
+  - *Optional*
+  - Use to document functions that are important and/or might be used by other people
+
+## Your time to work...
+
+Make your code more modular by creating functions and organising it in different files.
+
+## Short break
+
+<!-- 5 min break, I'm around for troubleshooting and questions -->
+
+# GitHub functionalities
+
+## Time to make your first pull request (to yourself)
+
+On github, create a pull request to merge dev into main.
+
+<!-- Here let people do a "no-conflict" merge on their repo -->
+
+## When merges are more complicated
+
+<!-- Do a live demo on my repo where I change the same file in main and dev, and solve the merge conflict -->
+
+## Issues
+
+- Like a centralised to-do list
+- Keep track of things to do together
+  - When there are multiple users, it's also useful for them to know which bugs have already been reported
+- Each issue gets its own discussion feed
+- How to close an issue via commit (fixes #1)
+- Don't be scared of issues! Code is never perfect, there will always be bugs
+  - Foster a culture of openness
+
+## Github is not the only way
+
+- Github doesn't own git!
+- Any other website can provide similar functionalities
+- Examples: Gitlab, codeberg, forgejo...
+- ...including the Uni's own gitlab instance! (IT resilience)
