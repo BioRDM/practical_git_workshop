@@ -13,119 +13,315 @@ format:
     footer: ''
 ---
 
+# Check-in
+
+## House rules
+
+<!-- Lisa will send -->
+
+# What makes you want to use Github?
+
+# What makes you *not* want to use Github?
+
 # Basics of git and github
 
 ## What is a git repository?
 
-- A folder
+- A (local) folder
 - A `.git` folder that contains all the file history
-- Changes are not recorded in real time, only by "committing" files (= adding changes to history)
-- Each commit records a "diff", i.e. what has changed between the previous and current version
-- Each commit is identified by a unique "hash" (randomly generated), e.g. `87c0c975daf0643d59a01222b312662d347e0bfa`
-  - Shown on github as the first 7 characters for readability: `87c0c97`
 
-## Why not make a "google docs" for code?
+![](./figures/Empty_git_folder.png)
 
-- Google docs is data sharing without data management
-- Using Github to share code requires extra work (at least initially)
-- The process makes the user decide...
-  - *What* they share (which files)
-  - *When* they share (working on files locally and pushing them when ready)
-  - *Why* they share (for other people to use the code, to work on new developments...)
+## How are changes recorded
 
-## Working with git - workflow
+![](./figures/git_file_states.svg)
 
-![](./figures/git_principle.svg)
+- A commit records a snapshot of the project
+- It is identified by a unique "hash", e.g. `87c0c975daf0643d59a01222b312662d347e0bfa`
+- Shown on github as the first 7 characters for readability: `87c0c97`
 
-## How to
+## Is git overly complicated?
 
-- Create repository on Github
-- Copy link
-- Clone (command line, Github desktop, Rstudio?)
+![](./figures/too-complex.jpg)
+
+Can we not make a google docs for code?
+
+- Real-time updates
+- Collaboration
+- Complete file history
+
+## What git adds...
+
+![](./figures/Data_management.jpg){.absolute top=5 left=650}
+
+<br>
+
+The process makes the user decide...
+
+- **What** they share (which files)
+- **When** they share (working on files locally and pushing them when ready)
+- **Why** they share (for other people to use the code, to collaborate on code...)
+
+## How to collaborate with git(hub)
+
+![](./figures/local-copy.jpg){.absolute left=0 width=30%}
+
+![](./figures/git_principle.svg){.absolute right=0 width=70% top=25%}
+
+::: {.absolute left=35% bottom=10%}
+Pull - Modify - Stage - Commit - Push
+:::
+
+## From theory to practice {.smaller}
+
+::: {.panel-tabset}
+
+### Create repository
+
+:::: {.columns}
+::: {.column width=48%}
+- Go to `github.com`
+- Click on "New"
+- Enter a name and description
+- Make repository public or private
+- Tick "Add a README file"
+
+![](./figures/gh_homepage_new.png)
+:::
+::: {.column width=2%}
+:::
+::: {.column width=50%}
+- Click on "< > Code"
+- Copy the https link to the repository
+
+![](./figures/gh_clone_window.png)
+:::
+::::
+
+### Clone and edit
+
+:::: {.columns}
+::: {.column width=48%}
+- In RStudio, create a new project
+![](./figures/RStudio_new_project.svg)
+- Select:
+  - Version control
+  - Git
+- Enter repository details
+- Identify to Github
+
+:::
+::: {.column width=4%}
+:::
+::: {.column width=48%}
 - Add some code files to the repository
-  - Notice they appear in the RStudio git tracking window
+- They will be shown in the RStudio git tab
+
+![](./figures/RStudio_git_tab.png)
+:::
+::::
+
+### First commit!
+
+:::: {.columns}
+::: {.column width=40%}
 - Stage the newly added files
+
+![](./figures/RStudio_staged.png)
+:::
+::: {.column width=2%}
+:::
+::: {.column width=58%}
 - Commit (with a message)
+![](./figures/RStudio_commit.png)
+
 - Push
   - Committed files are now on Github
+:::
+::::
+
+### Use .gitignore
+
+- Open the `.gitignore` file
+- Add `*.Rproj` on a new line
+  - The .Rproj file has disappeared from the git tab
+- Commit `.gitignore`
+
+:::
 
 ## The Readme file
 
 A *practical* overview of the repository, in **markdown** format
 
 - What can be found in here?
-- What's the purpose of the code
-  - If possible, describe inputs and outputs
+- What's the purpose of the code (+ inputs/outputs)
 - How to use the code
-  - Which scripts to run
-- Who are the authors and how to contact them?
+- Who are the authors (with contact info)
 
-Edit your own Readme file!
+## Readme example
 
-<!-- Have a quick look: file history browsing in Github (show an example with more commits in nocturn repo) -->
+:::: {.columns}
+::: {.column width=43%}
+![](./figures/Readme_raw.png)
+:::
+::: {.column width=57%}
+![](./figures/Readme_formatted.png)
+:::
+::::
 
-## git tips
+::: {.footer}
+[github.com/BioRDM/Network-Analysis](https://github.com/BioRDM/Network-Analysis)
+:::
 
-- `.gitignore` - list file names that should not be tracked
-  - Use wildcards, e.g. `*.docx` ignores all .docx files
+## Why use branches
 
-## Branches
+![](./figures/git_branches_problem_1.svg)
 
-<!-- Explain principle here with a figure -->
+## Why use branches
 
-## Branches in practice
+![](./figures/git_branches_problem_2.svg)
+
+## Why use branches
+
+![](./figures/git_branches_problem_3.svg)
+
+## Why use branches
+
+![](./figures/git_branches_principle.svg)
+
+## Creating a branch {.nostretch}
 
 - Create a new branch "dev" in your repository
-- Make some changes, commit
-- Switch between branches locally
-- Have a look at the two branches in Github
-- Checkout the dev branch
-- Next steps later
+![](./figures/RStudio_git_tab.png){width=60%}
 
-## Short break
+- Make some changes to a file
+- Stage, commit, push
+- Switch between branches
+  - Each branch has a different file version
 
-<!-- 5 min break, I'm around for troubleshooting and questions -->
+# Short break
 
 # Good coding practices
 
-## Code modularity
+## Code modularity {.smaller auto-animate="true"}
 
 <!-- How does it help, how is it achieved -->
 <!-- Would be great if I had a minimal example of a short, hard to understand script (with repetitions?) that can be split into functions... -->
 
-- Makes code more "human-readable"
-
-## How to create a function
-
-- A "processing unit" with clear inputs and outputs
-- Can be described simply with a verb + a noun (e.g. "load_data", "set_ema_period")
-- In general shorter is better, but don't worry too much about it
-- Sometimes very short (1 line!) - worth it if it makes it easy to do a precise action rather than have to copy/paste complicated code
+<!-- - Makes code more "human-readable" -->
 
 ```{.r}
-# In here, add a simple but *meaningful* example, with input(s) and returned outputs (don't bother with implicit return)
+library(readxl)
+library(ggplot2)
+
+sessions_file <- "example_sessions.csv"
+min_sleep_period <- 2  # hours
+
+file_ext <- tolower(file_ext(sessions_file))
+if (file_ext == "csv") {
+  sessions <- read.csv(sessions_file)
+} else if (file_ext %in% c("xls", "xlsx")) {
+  sessions <- read_excel(sessions_file) |>
+    as.data.frame()
+}
+
+sessions <- sessions[sessions['sleep_period'] >= min_sleep_period * 60 * 60, ]
+
+p <- ggplot(sessions, aes(x = .data$night, y = .data$variable, color = .data$color_group)) +
+  geom_point(size = 5) +
+  color_scale +
+  labs(x = NULL, y = variable, color = NULL) +
+  theme_minimal(base_size = 16) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+print(p)
 ```
 
-## Splitting code between different files
+## Code modularity {.smaller auto-animate="true"}
 
-<!-- How to `source()` files; how to decide which function goes where (i.e. project structure) -->
+```{.r}
+sessions_file <- "example_sessions.csv"
+min_sleep_period <- 2  # hours
 
-## Documenting code
+sessions <- load_sessions(sessions_file)
 
-<!-- Show examples of each, with *good*/*bad* comparisons where needed -->
+sessions <- set_min_sleep(sessions, min_sleep_period)
+
+print_timeseries_plot(sessions)
+```
+
+<br>
+
+- Makes code more human-readable
+  - Creates different "levels of reading"
+- Facilitates reuse in different scripts
+- Facilitates collaborative work
+
+## 1. Create functions
+
+- A "processing unit" with clear inputs and outputs
+- Can be described simply with a **verb** + a noun
+  - "`load_data`", "`set_ema_period`"
+- In general shorter is better
+
+```{.r}
+set_min_sleep <- function(sessions, min_sleep) {
+  sessions <- sessions[sessions['sleep_period'] >= min_sleep * 60 * 60, ]
+  return(sessions)
+}
+```
+
+## 2. Split code between different files
+
+:::: {.columns}
+::: {.column width=20%}
+![](./figures/nocturn_R_files.png)
+:::
+::: {.column width=5%}
+:::
+::: {.column width=75%}
+<br>
+```{.r}
+source("R/filtering.R")
+```
+
+- One file per "topic"
+- If a file gets very long, consider splitting it
+- Easily see what part of the code a commit has affected
+
+![](./figures/gh_commit_example.png)
+:::
+::::
+
+<!-- ## Documenting code
 
 - If commenting inside the code, focus on *why* rather than *what*
+
+```{.r}
+
+```
+
 - Docstrings
   - *Optional*
-  - Use to document functions that are important and/or might be used by other people
+  - Use to document functions that are important and/or might be used by other people -->
 
-## Your time to work...
+## Make your code more modular
 
-Make your code more modular by creating functions and organising it in different files.
+- Checkout `dev` branch
+- Create functions
+- Organise them in different files
 
-## Short break
+Function template:
+```{.r}
+set_min_sleep <- function(sessions, min_sleep) {
+  sessions <- sessions[sessions['sleep_period'] >= min_sleep * 60 * 60, ]
+  return(sessions)
+}
+```
 
-<!-- 5 min break, I'm around for troubleshooting and questions -->
+...commit and push your changes to github
+
+# Short break
 
 # GitHub functionalities
 
@@ -146,7 +342,7 @@ On github, create a pull request to merge dev into main.
   - When there are multiple users, it's also useful for them to know which bugs have already been reported
 - Each issue gets its own discussion feed
 - How to close an issue via commit (fixes #1)
-- Don't be scared of issues! Code is never perfect, there will always be bugs
+- Don't be scared of issues! Code is never perfect
   - Foster a culture of openness
 
 ## Github is not the only way

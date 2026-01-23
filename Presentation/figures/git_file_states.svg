@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="214.17088mm"
+   height="43.810204mm"
+   viewBox="0 0 214.17088 43.810203"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="git_file_states.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.3986392"
+     inkscape:cx="400.38919"
+     inkscape:cy="109.03456"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="73.832932"
+       y="336.09119"
+       width="77.740181"
+       height="97.410538"
+       id="rect1660" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="arrow2L" />
+    </marker>
+    <rect
+       x="73.832932"
+       y="336.09119"
+       width="133.3383"
+       height="95.120361"
+       id="rect1660-1" />
+    <rect
+       x="73.832932"
+       y="336.09119"
+       width="133.3383"
+       height="95.120361"
+       id="rect1660-1-7" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="arrow2L-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="arrow2L-27" />
+    </marker>
+    <rect
+       x="73.832932"
+       y="336.09119"
+       width="133.3383"
+       height="95.120361"
+       id="rect1660-1-7-9" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-18.123674,-71.433474)">
+    <path
+       style="fill:#dc8add;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;marker-end:url(#Arrow2)"
+       d="M 57.56968,97.416675 H 72.707755"
+       id="path663" />
+    <path
+       style="fill:#dc8add;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;marker-end:url(#Arrow2-6)"
+       d="m 115.44768,97.416675 h 15.13807"
+       id="path663-9" />
+    <path
+       style="fill:#dc8add;stroke:#000000;stroke-width:0.5;stroke-dasharray:1, 2;stroke-dashoffset:0;marker-end:url(#Arrow2-1)"
+       d="m 173.50048,97.416675 h 15.13807"
+       id="path663-0" />
+    <g
+       id="g328">
+      <rect
+         style="fill:#8ff0a4;stroke:none;stroke-width:0.653576"
+         id="rect234"
+         width="39.053776"
+         height="35"
+         x="18.123674"
+         y="79.916679"
+         rx="3"
+         ry="3" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.29167px;line-height:1.5;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:0.79375"
+         x="37.611805"
+         y="86.097893"
+         id="text398"><tspan
+           sodipodi:role="line"
+           id="tspan396"
+           style="font-weight:bold;font-size:5.29167px;fill:#000000;stroke:none;stroke-width:0.79375"
+           x="37.611805"
+           y="86.097893">Modified</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,7.8056143,-0.43221122)"
+         id="text1658"
+         style="font-size:16px;line-height:1.5;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';text-align:center;white-space:pre;shape-inside:url(#rect1660);display:inline;fill:#dc8add;stroke:#000000;stroke-width:1.88976;stroke-dasharray:none"
+         x="-64.400391"
+         y="0"><tspan
+           x="88.444336"
+           y="352.26858"
+           id="tspan2877"><tspan
+             style="fill:#000000;stroke:none"
+             id="tspan2875">Added
+</tspan></tspan><tspan
+           x="83.655273"
+           y="376.26858"
+           id="tspan2881"><tspan
+             style="fill:#000000;stroke:none"
+             id="tspan2879">Deleted
+</tspan></tspan><tspan
+           x="89.112305"
+           y="400.26858"
+           id="tspan2885"><tspan
+             style="fill:#000000;stroke:none"
+             id="tspan2883">Edited
+</tspan></tspan><tspan
+           x="77.077148"
+           y="424.26858"
+           id="tspan2889"><tspan
+             style="fill:#000000;stroke:none"
+             id="tspan2887">Renamed</tspan></tspan></text>
+    </g>
+    <g
+       id="g300"
+       transform="translate(-5.2916585)">
+      <rect
+         style="fill:#ffbe6f;stroke:none;stroke-width:0.653576"
+         id="rect234-3"
+         width="39.053776"
+         height="35"
+         x="81.389351"
+         y="79.916679"
+         rx="3"
+         ry="3.0000002" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.29167px;line-height:1.5;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:0.79375"
+         x="100.87748"
+         y="86.097893"
+         id="text398-6"><tspan
+           sodipodi:role="line"
+           id="tspan396-7"
+           style="font-weight:bold;font-size:5.29167px;fill:#000000;stroke:none;stroke-width:0.79375"
+           x="100.87748"
+           y="86.097893">Staged</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,63.578472,-0.43221122)"
+         id="text1658-2"
+         style="font-size:16px;line-height:1.5;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';text-align:center;white-space:pre;shape-inside:url(#rect1660-1);display:inline;fill:#dc8add;stroke:#000000;stroke-width:1.88976;stroke-dasharray:none"
+         x="-29.462891"
+         y="0"><tspan
+           x="77.501953"
+           y="352.26858"
+           id="tspan2893"><tspan
+             style="fill:#000000;stroke:none"
+             id="tspan2891">Ready to commit</tspan></tspan></text>
+    </g>
+    <g
+       id="g292">
+      <rect
+         style="fill:#dc8add;stroke:none;stroke-width:0.653576"
+         id="rect234-5"
+         width="39.053776"
+         height="35"
+         x="134.07172"
+         y="79.916679"
+         rx="3"
+         ry="3.0000002" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.29167px;line-height:1.5;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:0.79375"
+         x="153.55983"
+         y="86.097893"
+         id="text398-3"><tspan
+           sodipodi:role="line"
+           id="tspan396-5"
+           style="font-weight:bold;font-size:5.29167px;fill:#000000;stroke:none;stroke-width:0.79375"
+           x="153.55983"
+           y="86.097893">Committed</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,116.24429,-0.43221122)"
+         id="text1658-2-0"
+         style="font-size:16px;line-height:1.5;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';text-align:center;white-space:pre;shape-inside:url(#rect1660-1-7);display:inline;fill:#dc8add;stroke:#000000;stroke-width:1.88976;stroke-dasharray:none"
+         x="-29.462891"
+         y="0"><tspan
+           x="101.03711"
+           y="352.26858"
+           id="tspan2897"><tspan
+             style="fill:#000000;stroke:none"
+             id="tspan2895">Registered </tspan></tspan><tspan
+           x="79.021484"
+           y="376.26858"
+           id="tspan2901"><tspan
+             style="fill:#000000;stroke:none"
+             id="tspan2899">(permanently) in </tspan></tspan><tspan
+           x="74.599609"
+           y="400.26858"
+           id="tspan2905"><tspan
+             style="fill:#000000;stroke:none"
+             id="tspan2903">repository history</tspan></tspan></text>
+    </g>
+    <rect
+       style="fill:none;stroke:#dc8add;stroke-width:0.654;stroke-dasharray:1.308, 2.616;stroke-dashoffset:0"
+       id="rect234-5-6"
+       width="39.053776"
+       height="35"
+       x="192.91379"
+       y="79.916679"
+       rx="3"
+       ry="3.0000002" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;line-height:1.5;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:0.79375"
+       x="212.4019"
+       y="86.097893"
+       id="text398-3-0"><tspan
+         sodipodi:role="line"
+         id="tspan396-5-6"
+         style="font-weight:bold;font-size:5.29167px;fill:#000000;stroke:none;stroke-width:0.79375"
+         x="212.4019"
+         y="86.097893">Github</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,175.08636,-0.43221122)"
+       id="text1658-2-0-2"
+       style="font-size:16px;line-height:1.5;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';text-align:center;white-space:pre;shape-inside:url(#rect1660-1-7-9);display:inline;fill:#dc8add;stroke:#000000;stroke-width:1.88976;stroke-dasharray:none"
+       x="-29.462891"
+       y="0"><tspan
+         x="101.24414"
+         y="352.26858"
+         id="tspan2909"><tspan
+           style="fill:#000000;stroke:none"
+           id="tspan2907">Backed-up
+</tspan></tspan><tspan
+         x="114.25586"
+         y="376.26858"
+         id="tspan2913"><tspan
+           style="fill:#000000;stroke:none"
+           id="tspan2911">Shared</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.5;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.654;stroke-dasharray:1.308, 2.616;stroke-dashoffset:0"
+       x="-32.481842"
+       y="104.34749"
+       id="text2639"
+       transform="rotate(-56.72828)"><tspan
+         sodipodi:role="line"
+         id="tspan2637"
+         style="stroke-width:0.654"
+         x="-32.481842"
+         y="104.34749">Stage (or add)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.5;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.654;stroke-dasharray:1.308, 2.616;stroke-dashoffset:0"
+       x="-6.4130526"
+       y="153.07463"
+       id="text2639-6"
+       transform="rotate(-56.72828)"><tspan
+         sodipodi:role="line"
+         id="tspan2637-1"
+         style="stroke-width:0.654"
+         x="-6.413053"
+         y="153.07463">Commit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.5;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.654;stroke-dasharray:1.308, 2.616;stroke-dashoffset:0"
+       x="22.52972"
+       y="201.96243"
+       id="text2639-8"
+       transform="rotate(-56.72828)"><tspan
+         sodipodi:role="line"
+         id="tspan2637-7"
+         style="stroke-width:0.654"
+         x="22.52972"
+         y="201.96243">Push</tspan></text>
+  </g>
+</svg>
