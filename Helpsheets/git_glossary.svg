@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="git_glossary.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#fff6f6"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.69931958"
+     inkscape:cx="293.14208"
+     inkscape:cy="569.83961"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="38.832389"
+       y="965.1178"
+       width="733.79907"
+       height="179.34963"
+       id="rect37716" />
+    <rect
+       x="48.222096"
+       y="157.27341"
+       width="351.1305"
+       height="166.23373"
+       id="rect10917" />
+    <rect
+       x="-664.14216"
+       y="259.70381"
+       width="386.33271"
+       height="278.25182"
+       id="rect8540" />
+    <rect
+       x="-478.3556"
+       y="663.56911"
+       width="435.29477"
+       height="358.55165"
+       id="rect8528" />
+    <rect
+       x="-383.42515"
+       y="852.94404"
+       width="353.79256"
+       height="385.75442"
+       id="rect8520" />
+    <rect
+       x="-393.88733"
+       y="381.12939"
+       width="350.68128"
+       height="526.08057"
+       id="rect8512" />
+    <rect
+       x="419.30825"
+       y="130.14883"
+       width="345.31892"
+       height="979.65202"
+       id="rect6888" />
+    <rect
+       x="40.26235"
+       y="126.61303"
+       width="357.1824"
+       height="1225.8437"
+       id="rect1201" />
+    <rect
+       x="48.222095"
+       y="157.27341"
+       width="318.07703"
+       height="278.14984"
+       id="rect10917-5" />
+    <rect
+       x="48.222095"
+       y="157.27341"
+       width="318.07703"
+       height="278.14984"
+       id="rect10917-1" />
+    <rect
+       x="48.222095"
+       y="157.27341"
+       width="344.32739"
+       height="224.52422"
+       id="rect10917-6" />
+    <rect
+       x="48.222095"
+       y="157.27341"
+       width="342.76619"
+       height="614.58737"
+       id="rect10917-6-8" />
+    <rect
+       x="48.222095"
+       y="157.27341"
+       width="339.83391"
+       height="760.0746"
+       id="rect10917-6-3" />
+    <rect
+       x="48.222095"
+       y="157.27341"
+       width="339.30301"
+       height="447.04167"
+       id="rect10917-6-8-7" />
+    <rect
+       x="48.222095"
+       y="157.27341"
+       width="325.89154"
+       height="135.18719"
+       id="rect10917-6-8-7-7" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.5;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';text-align:center;letter-spacing:0.529167px;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.3"
+       x="105.60947"
+       y="12.523647"
+       id="text186"><tspan
+         sodipodi:role="line"
+         id="tspan184"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Lato;-inkscape-font-specification:Lato;fill:#000000;stroke:none;stroke-width:0.3"
+         x="105.87405"
+         y="12.523647">Git Glossary</tspan></text>
+    <g
+       id="g18149"
+       transform="translate(0,-19.579172)">
+      <rect
+         style="fill:#ffffff;fill-opacity:0.7;stroke:#f66151;stroke-width:0.937337;stroke-dasharray:none"
+         id="rect502"
+         width="96.06266"
+         height="47.235432"
+         x="6.4684992"
+         y="50.307804"
+         ry="5"
+         rx="5" />
+      <rect
+         style="fill:#c01c28;fill-opacity:0.998528;stroke:none;stroke-width:0.253436"
+         id="rect9002"
+         width="51.256992"
+         height="12"
+         x="28.871334"
+         y="44.336651"
+         rx="2"
+         ry="2" />
+      <text
+         xml:space="preserve"
+         style="font-size:7.05556px;line-height:1.5;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';text-align:start;text-anchor:start;fill:#c01c28;fill-opacity:1;stroke:none;stroke-width:0.3"
+         x="41.672009"
+         y="52.982487"
+         id="text10531"><tspan
+           sodipodi:role="line"
+           id="tspan10529"
+           style="font-size:7.05556px;fill:#ffffff;stroke:none;stroke-width:0.3"
+           x="41.672009"
+           y="52.982487">General</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-3.1750001,16.404164)"
+         id="text10915"
+         style="font-size:16px;line-height:1.5;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';text-align:start;white-space:pre;shape-inside:url(#rect10917);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.13386"><tspan
+           x="48.222656"
+           y="173.45022"
+           id="tspan38600"><tspan
+             style="font-weight:bold"
+             id="tspan38596">git</tspan><tspan
+             style="fill:#000000"
+             id="tspan38598">
+</tspan></tspan><tspan
+           x="48.222656"
+           y="197.45022"
+           id="tspan38604"><tspan
+             style="fill:#000000"
+             id="tspan38602">An open-source file versioning system
+</tspan></tspan><tspan
+           x="48.222656"
+           y="221.45022"
+           id="tspan38608"><tspan
+             style="fill:#000000"
+             id="tspan38606">
+</tspan></tspan><tspan
+           x="48.222656"
+           y="245.45022"
+           id="tspan38614"><tspan
+             style="font-weight:bold"
+             id="tspan38610">GitHub</tspan><tspan
+             style="fill:#000000"
+             id="tspan38612">
+</tspan></tspan><tspan
+           x="48.222656"
+           y="269.45022"
+           id="tspan38618"><tspan
+             style="fill:#000000"
+             id="tspan38616">A website for hosting and managing git </tspan></tspan><tspan
+           x="48.222656"
+           y="293.45022"
+           id="tspan38622"><tspan
+             style="fill:#000000"
+             id="tspan38620">repositories</tspan></tspan></text>
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:0.9;stroke:#99c1f1;stroke-width:0.973729;stroke-dasharray:none"
+       id="rect502-0"
+       width="96.026268"
+       height="68.982208"
+       x="108.85751"
+       y="30.74683"
+       ry="5"
+       rx="5" />
+    <rect
+       style="fill:#1a5fb4;fill-opacity:0.998528;stroke:none;stroke-width:0.315303"
+       id="rect9002-6"
+       width="79.336258"
+       height="12"
+       x="117.20253"
+       y="24.710178"
+       rx="2"
+       ry="2" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.5;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';text-align:start;text-anchor:start;fill:#c01c28;fill-opacity:1;stroke:none;stroke-width:0.3"
+       x="124.6462"
+       y="32.886497"
+       id="text10531-2"><tspan
+         sodipodi:role="line"
+         id="tspan10529-6"
+         style="font-size:7.05556px;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="124.6462"
+         y="32.886497"> File Management</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,99.724994,-3.1750055)"
+       id="text10915-1"
+       style="font-size:16px;line-height:1.5;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';text-align:start;white-space:pre;shape-inside:url(#rect10917-6);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.13386"><tspan
+         x="48.222656"
+         y="173.45022"
+         id="tspan38628"><tspan
+           style="font-weight:bold"
+           id="tspan38624">Stage (or Add)</tspan><tspan
+           style="fill:#000000"
+           id="tspan38626">
+</tspan></tspan><tspan
+         x="48.222656"
+         y="197.45022"
+         id="tspan38632"><tspan
+           style="fill:#000000"
+           id="tspan38630">Add a new or edited file to the git index, to be </tspan></tspan><tspan
+         x="48.222656"
+         y="221.45022"
+         id="tspan38636"><tspan
+           style="fill:#000000"
+           id="tspan38634">included in the next commit
+</tspan></tspan><tspan
+         x="48.222656"
+         y="245.45022"
+         id="tspan38640"><tspan
+           style="fill:#000000"
+           id="tspan38638">
+</tspan></tspan><tspan
+         x="48.222656"
+         y="269.45022"
+         id="tspan38646"><tspan
+           style="font-weight:bold"
+           id="tspan38642">Commit</tspan><tspan
+           style="fill:#000000"
+           id="tspan38644">
+</tspan></tspan><tspan
+         x="48.222656"
+         y="293.45022"
+         id="tspan38650"><tspan
+           style="fill:#000000"
+           id="tspan38648">Add one or several staged files to the git </tspan></tspan><tspan
+         x="48.222656"
+         y="317.45022"
+         id="tspan38654"><tspan
+           style="fill:#000000"
+           id="tspan38652">history. Commits are identified by a unique </tspan></tspan><tspan
+         x="48.222656"
+         y="341.45022"
+         id="tspan38658"><tspan
+           style="fill:#000000"
+           id="tspan38656">hash and a commit message, which describes </tspan></tspan><tspan
+         x="48.222656"
+         y="365.45022"
+         id="tspan38662"><tspan
+           style="fill:#000000"
+           id="tspan38660">what changes were made.</tspan></tspan></text>
+    <g
+       id="g18185"
+       transform="translate(0.80265665,-30.691679)">
+      <rect
+         style="fill:#ffffff;fill-opacity:0.7;stroke:#57e389;stroke-width:0.955579;stroke-dasharray:none"
+         id="rect502-0-75"
+         width="96.044418"
+         height="147.65161"
+         x="5.6749635"
+         y="117.67701"
+         ry="5"
+         rx="5" />
+      <rect
+         style="fill:#26a269;fill-opacity:0.998528;stroke:none;stroke-width:0.282003"
+         id="rect9002-6-92"
+         width="63.463551"
+         height="12"
+         x="21.965393"
+         y="111.6258"
+         rx="2"
+         ry="2" />
+      <text
+         xml:space="preserve"
+         style="font-size:7.05556px;line-height:1.5;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';text-align:start;text-anchor:start;fill:#c01c28;fill-opacity:1;stroke:none;stroke-width:0.3"
+         x="35.637474"
+         y="120.14565"
+         id="text10531-2-28"><tspan
+           sodipodi:role="line"
+           id="tspan10529-6-9"
+           style="font-size:7.05556px;fill:#ffffff;stroke:none;stroke-width:0.3"
+           x="35.637474"
+           y="120.14565"> Branches</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-3.4485126,82.705926)"
+         id="text10915-1-7"
+         style="font-size:16px;line-height:1.5;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';text-align:start;white-space:pre;shape-inside:url(#rect10917-6-3);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.13386"><tspan
+           x="48.222656"
+           y="173.45022"
+           id="tspan38668"><tspan
+             style="font-weight:bold"
+             id="tspan38664">Branch</tspan><tspan
+             style="fill:#000000"
+             id="tspan38666">
+</tspan></tspan><tspan
+           x="48.222656"
+           y="197.45022"
+           id="tspan38672"><tspan
+             style="fill:#000000"
+             id="tspan38670">An alternative version of the git repository
+</tspan></tspan><tspan
+           x="48.222656"
+           y="221.45022"
+           id="tspan38676"><tspan
+             style="fill:#000000"
+             id="tspan38674">
+</tspan></tspan><tspan
+           x="48.222656"
+           y="245.45022"
+           id="tspan38682"><tspan
+             style="font-weight:bold"
+             id="tspan38678">Checkout</tspan><tspan
+             style="fill:#000000"
+             id="tspan38680">
+</tspan></tspan><tspan
+           x="48.222656"
+           y="269.45022"
+           id="tspan38686"><tspan
+             style="fill:#000000"
+             id="tspan38684">Switch to a different branch. Updates all the </tspan></tspan><tspan
+           x="48.222656"
+           y="293.45022"
+           id="tspan38690"><tspan
+             style="fill:#000000"
+             id="tspan38688">files to match their versions in the selected </tspan></tspan><tspan
+           x="48.222656"
+           y="317.45022"
+           id="tspan38694"><tspan
+             style="fill:#000000"
+             id="tspan38692">branch
+</tspan></tspan><tspan
+           x="48.222656"
+           y="341.45022"
+           id="tspan38698"><tspan
+             style="fill:#000000"
+             id="tspan38696">
+</tspan></tspan><tspan
+           x="48.222656"
+           y="365.45022"
+           id="tspan38704"><tspan
+             style="font-weight:bold"
+             id="tspan38700">Merge</tspan><tspan
+             style="fill:#000000"
+             id="tspan38702">
+</tspan></tspan><tspan
+           x="48.222656"
+           y="389.45022"
+           id="tspan38708"><tspan
+             style="fill:#000000"
+             id="tspan38706">Transfer the changes made in one branch to </tspan></tspan><tspan
+           x="48.222656"
+           y="413.45022"
+           id="tspan38712"><tspan
+             style="fill:#000000"
+             id="tspan38710">another branch.
+</tspan></tspan><tspan
+           x="48.222656"
+           y="437.45022"
+           id="tspan38716"><tspan
+             style="fill:#000000"
+             id="tspan38714">
+</tspan></tspan><tspan
+           x="48.222656"
+           y="461.45022"
+           id="tspan38722"><tspan
+             style="font-weight:bold"
+             id="tspan38718">Merge conflict</tspan><tspan
+             style="fill:#000000"
+             id="tspan38720">
+</tspan></tspan><tspan
+           x="48.222656"
+           y="485.45022"
+           id="tspan38726"><tspan
+             style="fill:#000000"
+             id="tspan38724">When the two branches in a merge have </tspan></tspan><tspan
+           x="48.222656"
+           y="509.45022"
+           id="tspan38730"><tspan
+             style="fill:#000000"
+             id="tspan38728">conflicting changes. The conflicts must be </tspan></tspan><tspan
+           x="48.222656"
+           y="533.45022"
+           id="tspan38734"><tspan
+             style="fill:#000000"
+             id="tspan38732">resolved by choosing one of the versions </tspan></tspan><tspan
+           x="48.222656"
+           y="557.45022"
+           id="tspan38738"><tspan
+             style="fill:#000000"
+             id="tspan38736">before completing the merge.
+</tspan></tspan><tspan
+           x="48.222656"
+           y="581.45022"
+           id="tspan38742"><tspan
+             style="fill:#000000"
+             id="tspan38740">
+</tspan></tspan><tspan
+           x="48.222656"
+           y="605.45022"
+           id="tspan38746"><tspan
+             style="font-weight:bold"
+             id="tspan38744">Pull request (or PR)
+</tspan></tspan><tspan
+           x="48.222656"
+           y="629.45022"
+           id="tspan38750"><tspan
+             style="fill:#000000"
+             id="tspan38748">Request to merge a branch into another </tspan></tspan><tspan
+           x="48.222656"
+           y="653.45022"
+           id="tspan38754"><tspan
+             style="fill:#000000"
+             id="tspan38752">branch. Must be reviewed and approved by </tspan></tspan><tspan
+           x="48.222656"
+           y="677.45022"
+           id="tspan38758"><tspan
+             style="fill:#000000"
+             id="tspan38756">an admin of the GitHub repository.</tspan></tspan></text>
+    </g>
+    <g
+       id="g18172"
+       transform="translate(0.5399704,-26.191403)">
+      <rect
+         style="fill:#ffffff;fill-opacity:0.7;stroke:#dc8add;stroke-width:0.975077;stroke-dasharray:none"
+         id="rect502-0-7"
+         width="96.024925"
+         height="124.00791"
+         x="108.31823"
+         y="136.81068"
+         ry="5"
+         rx="5" />
+      <rect
+         style="fill:#613583;fill-opacity:0.998528;stroke:none;stroke-width:0.294801"
+         id="rect9002-6-9"
+         width="69.354485"
+         height="12"
+         x="121.65344"
+         y="130.79176"
+         rx="2"
+         ry="2" />
+      <text
+         xml:space="preserve"
+         style="font-size:7.05556px;line-height:1.5;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';text-align:start;text-anchor:start;fill:#c01c28;fill-opacity:1;stroke:none;stroke-width:0.3"
+         x="127.66526"
+         y="138.71609"
+         id="text10531-2-2"><tspan
+           sodipodi:role="line"
+           id="tspan10529-6-0"
+           style="font-size:7.05556px;fill:#ffffff;stroke:none;stroke-width:0.3"
+           x="127.66526"
+           y="138.71609"> Online syncing</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,99.185014,102.35899)"
+         id="text10915-1-2"
+         style="font-size:16px;line-height:1.5;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';text-align:start;white-space:pre;shape-inside:url(#rect10917-6-8);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.13386"><tspan
+           x="48.222656"
+           y="173.45022"
+           id="tspan38764"><tspan
+             style="font-weight:bold"
+             id="tspan38760">Push</tspan><tspan
+             style="fill:#000000"
+             id="tspan38762">
+</tspan></tspan><tspan
+           x="48.222656"
+           y="197.45022"
+           id="tspan38768"><tspan
+             style="fill:#000000"
+             id="tspan38766">Send local git changes to an online repository </tspan></tspan><tspan
+           x="48.222656"
+           y="221.45022"
+           id="tspan38772"><tspan
+             style="fill:#000000"
+             id="tspan38770">(e.g. GitHub)
+</tspan></tspan><tspan
+           x="48.222656"
+           y="245.45022"
+           id="tspan38776"><tspan
+             style="fill:#000000"
+             id="tspan38774">
+</tspan></tspan><tspan
+           x="48.222656"
+           y="269.45022"
+           id="tspan38782"><tspan
+             style="font-weight:bold"
+             id="tspan38778">Pull</tspan><tspan
+             style="fill:#000000"
+             id="tspan38780">
+</tspan></tspan><tspan
+           x="48.222656"
+           y="293.45022"
+           id="tspan38786"><tspan
+             style="fill:#000000"
+             id="tspan38784">Synchronise the local git repository with an </tspan></tspan><tspan
+           x="48.222656"
+           y="317.45022"
+           id="tspan38790"><tspan
+             style="fill:#000000"
+             id="tspan38788">online repository
+</tspan></tspan><tspan
+           x="48.222656"
+           y="341.45022"
+           id="tspan38794"><tspan
+             style="fill:#000000"
+             id="tspan38792">
+</tspan></tspan><tspan
+           x="48.222656"
+           y="365.45022"
+           id="tspan38800"><tspan
+             style="font-weight:bold"
+             id="tspan38796">Fetch</tspan><tspan
+             style="fill:#000000"
+             id="tspan38798">
+</tspan></tspan><tspan
+           x="48.222656"
+           y="389.45022"
+           id="tspan38804"><tspan
+             style="fill:#000000"
+             id="tspan38802">Retrieve the latest file history from an online </tspan></tspan><tspan
+           x="48.222656"
+           y="413.45022"
+           id="tspan38808"><tspan
+             style="fill:#000000"
+             id="tspan38806">repository, without syncing the files
+</tspan></tspan><tspan
+           x="48.222656"
+           y="437.45022"
+           id="tspan38812"><tspan
+             style="fill:#000000"
+             id="tspan38810">
+</tspan></tspan><tspan
+           x="48.222656"
+           y="461.45022"
+           id="tspan38818"><tspan
+             style="font-weight:bold"
+             id="tspan38814">Clone</tspan><tspan
+             style="fill:#000000"
+             id="tspan38816">
+</tspan></tspan><tspan
+           x="48.222656"
+           y="485.45022"
+           id="tspan38822"><tspan
+             style="fill:#000000"
+             id="tspan38820">Create a local copy of an online repository
+</tspan></tspan><tspan
+           x="48.222656"
+           y="509.45022"
+           id="tspan38826"><tspan
+             style="fill:#000000"
+             id="tspan38824">
+</tspan></tspan><tspan
+           x="48.222656"
+           y="533.45022"
+           id="tspan38830"><tspan
+             style="font-weight:bold"
+             id="tspan38828">Fork
+</tspan></tspan><tspan
+           x="48.222656"
+           y="557.45022"
+           id="tspan38834"><tspan
+             style="fill:#000000"
+             id="tspan38832">Create an independent copy of an existing </tspan></tspan><tspan
+           x="48.222656"
+           y="581.45022"
+           id="tspan38838"><tspan
+             style="fill:#000000"
+             id="tspan38836">online repository</tspan></tspan></text>
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:0.7;stroke:#77767b;stroke-width:0.877404;stroke-dasharray:none"
+       id="rect502-0-7-5-4"
+       width="199.32626"
+       height="48.371593"
+       x="5.486186"
+       y="243.42738"
+       ry="5"
+       rx="5" />
+    <rect
+       style="fill:#5e5c64;fill-opacity:0.998528;stroke:none;stroke-width:0.294801"
+       id="rect9002-6-9-2-4"
+       width="69.354485"
+       height="12"
+       x="73.15078"
+       y="237.44901"
+       rx="2"
+       ry="2" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.5;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';text-align:start;text-anchor:start;fill:#c01c28;fill-opacity:1;stroke:none;stroke-width:0.3"
+       x="77.575089"
+       y="245.65715"
+       id="text10531-2-2-5-3"><tspan
+         sodipodi:role="line"
+         id="tspan10529-6-0-4-0"
+         style="font-size:7.05556px;fill:#ffffff;stroke:none;stroke-width:0.3"
+         x="77.575089"
+         y="245.65715"> Repository files</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-4.3099594,212.89051)"
+       id="text10915-1-2-7-8"
+       style="font-size:16px;line-height:1.5;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';text-align:start;white-space:pre;shape-inside:url(#rect10917-6-8-7-7);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.13386" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+       d="M 14.514072,19.346887 H 197.11764"
+       id="path18241" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,0,-10.583334)"
+       id="text37714"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;white-space:pre;shape-inside:url(#rect37716);display:inline;fill:#000000;fill-opacity:0.9;stroke:#000000;stroke-width:1.88976;stroke-dasharray:none"><tspan
+         x="38.832031"
+         y="981.99719"
+         id="tspan38842"><tspan
+           style="font-weight:bold;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';stroke:none"
+           id="tspan38840">Readme
+</tspan></tspan><tspan
+         x="38.832031"
+         y="1006.7004"
+         id="tspan38844">A general description of the repository, including its purpose, how to use the code, and who the </tspan><tspan
+         x="38.832031"
+         y="1031.4036"
+         id="tspan38846">authors are (with contact information). Written in markdown format.
+</tspan><tspan
+         x="38.832031"
+         y="1056.1068"
+         id="tspan38850"><tspan
+           style="font-weight:bold;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';stroke:none"
+           id="tspan38848">.gitignore
+</tspan></tspan><tspan
+         x="38.832031"
+         y="1080.8101"
+         id="tspan38854">A list of files that should <tspan
+   style="font-style:italic"
+   id="tspan38852">not </tspan>be tracked by git. Use wildcards (*) to match patterns, e.g. *.Rproj
+</tspan><tspan
+         x="38.832031"
+         y="1105.5133"
+         id="tspan38858"><tspan
+           style="font-weight:bold;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';stroke:none"
+           id="tspan38856">License
+</tspan></tspan><tspan
+         x="38.832031"
+         y="1130.2165"
+         id="tspan38860">Description of terms for reuse of the repository contents. CC-BY = free reuse with attribution.</tspan></text>
+  </g>
+</svg>
