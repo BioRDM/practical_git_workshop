@@ -1,36 +1,53 @@
 ---
-title: "git and Github"
-subtitle: "A practical introduction"
+title: "git and GitHub"
+subtitle: "A practical introduction<br>![](./figures/git_logo.jpg){width=100px}![](./figures/github_logo.png){width=100px}"
 date: 02-18-2026
 date-format: DD/MM/YYYY
 author: Daniel Thédié
 format:
   revealjs:
     self-contained: true
+    theme: style.scss
     slide-number: true
     preview-links: auto
     code-block-height: 600px
     footer: ''
 ---
 
-# Check-in
+## Expectations of conduct
 
-## House rules
+<br>
 
-<!-- Lisa will send -->
+- Chatham House rule applies
+- Feel free to ask questions at anytime
+- Everyone’s voice matters
+- Be open to other points of view
 
-# What makes you want to use Github?
+# What makes you <br>want to use GitHub?
 
-# What makes you *not* want to use Github?
+# What makes you <br>*not* <br>want to use GitHub?
 
-# Basics of git and github
+# Basics of git and GitHub
 
 ## What is a git repository?
 
 - A (local) folder
 - A `.git` folder that contains all the file history
 
+:::: {.columns}
+::: {.column width=55%}
 ![](./figures/Empty_git_folder.png)
+:::
+::: {.column width=45%}
+It can be:
+
+- Moved
+- Renamed
+- Uploaded, downloaded
+
+...still a git repository
+:::
+::::
 
 ## How are changes recorded
 
@@ -38,7 +55,7 @@ format:
 
 - A commit records a snapshot of the project
 - It is identified by a unique "hash", e.g. `87c0c975daf0643d59a01222b312662d347e0bfa`
-- Shown on github as the first 7 characters for readability: `87c0c97`
+- Shown on GitHub as the first 7 characters for readability: `87c0c97`
 
 ## Is git overly complicated?
 
@@ -47,7 +64,7 @@ format:
 Can we not make a google docs for code?
 
 - Real-time updates
-- Collaboration
+- Collaboration + sharing
 - Complete file history
 
 ## What git adds...
@@ -69,7 +86,7 @@ The process makes the user decide...
 ![](./figures/git_principle.svg){.absolute right=0 width=70% top=25%}
 
 ::: {.absolute left=35% bottom=10%}
-Pull - Modify - Stage - Commit - Push
+**Pull - Modify - Stage - Commit - Push**
 :::
 
 ## From theory to practice {.smaller}
@@ -142,11 +159,15 @@ Pull - Modify - Stage - Commit - Push
 
 ### Use .gitignore
 
+`.gitignore` is used to specify files that should *not* be tracked
+
 - Open the `.gitignore` file
-- Add `*.Rproj` on a new line
+- Add `*.Rproj` on a new line and save file
   - The .Rproj file has disappeared from the git tab
 - Commit `.gitignore`
+- Push
 
+<!-- Closing tabset -->
 :::
 
 ## The Readme file
@@ -173,6 +194,10 @@ A *practical* overview of the repository, in **markdown** format
 [github.com/BioRDM/Network-Analysis](https://github.com/BioRDM/Network-Analysis)
 :::
 
+# Short break
+
+# git branches
+
 ## Why use branches
 
 ![](./figures/git_branches_problem_1.svg)
@@ -191,25 +216,19 @@ A *practical* overview of the repository, in **markdown** format
 
 ## Creating a branch {.nostretch}
 
-- Create a new branch "dev" in your repository
+- Create a new branch called "dev" in your repository
 ![](./figures/RStudio_git_tab.png){width=60%}
 
 - Make some changes to a file
 - Stage, commit, push
-- Switch between branches
-  - Each branch has a different file version
-
-# Short break
+- Switch between branches (= "checkout")
+  - The modified file changes depending on the branch
 
 # Good coding practices
 
-## Code modularity {.smaller auto-animate="true"}
+## Code modularity {auto-animate="true"}
 
-<!-- How does it help, how is it achieved -->
-<!-- Would be great if I had a minimal example of a short, hard to understand script (with repetitions?) that can be split into functions... -->
-
-<!-- - Makes code more "human-readable" -->
-
+::: {.small-text}
 ```{.r}
 library(readxl)
 library(ggplot2)
@@ -236,9 +255,11 @@ p <- ggplot(sessions, aes(x = .data$night, y = .data$variable, color = .data$col
 
 print(p)
 ```
+:::
 
-## Code modularity {.smaller auto-animate="true"}
+## Code modularity {auto-animate="true"}
 
+::: {.small-text}
 ```{.r}
 sessions_file <- "example_sessions.csv"
 min_sleep_period <- 2  # hours
@@ -249,8 +270,8 @@ sessions <- set_min_sleep(sessions, min_sleep_period)
 
 print_timeseries_plot(sessions)
 ```
-
 <br>
+:::
 
 - Makes code more human-readable
   - Creates different "levels of reading"
@@ -264,6 +285,7 @@ print_timeseries_plot(sessions)
   - "`load_data`", "`set_ema_period`"
 - In general shorter is better
 
+Syntax for R functions:
 ```{.r}
 set_min_sleep <- function(sessions, min_sleep) {
   sessions <- sessions[sessions['sleep_period'] >= min_sleep * 60 * 60, ]
@@ -293,19 +315,7 @@ source("R/filtering.R")
 :::
 ::::
 
-<!-- ## Documenting code
-
-- If commenting inside the code, focus on *why* rather than *what*
-
-```{.r}
-
-```
-
-- Docstrings
-  - *Optional*
-  - Use to document functions that are important and/or might be used by other people -->
-
-## Make your code more modular
+## Make your own code more modular
 
 - Checkout `dev` branch
 - Create functions
@@ -325,29 +335,65 @@ set_min_sleep <- function(sessions, min_sleep) {
 
 # GitHub functionalities
 
-## Time to make your first pull request (to yourself)
+## Make your first pull request
 
 On github, create a pull request to merge dev into main.
 
-<!-- Here let people do a "no-conflict" merge on their repo -->
+![](./figures/gh_pull_request.png)
 
-## When merges are more complicated
+![](./figures/gh_pull_request_2.png){width=70% fig-align="center"}
 
-<!-- Do a live demo on my repo where I change the same file in main and dev, and solve the merge conflict -->
+## Merge the pull request {.nostretch}
 
-## Issues
+![](./figures/gh_merge_PR.png){.absolute width=70% top=80 left=140}
 
-- Like a centralised to-do list
-- Keep track of things to do together
-  - When there are multiple users, it's also useful for them to know which bugs have already been reported
-- Each issue gets its own discussion feed
-- How to close an issue via commit (fixes #1)
-- Don't be scared of issues! Code is never perfect
-  - Foster a culture of openness
+![](./figures/gh_merge_commit.png){.absolute width=60% top=450 left=180}
 
-## Github is not the only way
+## When merges are more complicated {background-image=./figures/gh_PR_merge_issue.png background-size=80%}
 
-- Github doesn't own git!
-- Any other website can provide similar functionalities
-- Examples: Gitlab, codeberg, forgejo...
-- ...including the Uni's own gitlab instance! (IT resilience)
+## When merges are more complicated {.nostretch}
+
+![](./figures/gh_merge_conflict.png){width=70% fig-align="center"}
+
+## When merges are more complicated {background-image=./figures/gh_conflict_resolver.png background-size=85%}
+
+## When merges are more complicated {background-image=./figures/gh_conflict_resolved.png background-size=85%}
+
+## When merges are more complicated {.nostretch}
+
+![](./figures/gh_PR_merge_resolved.png){width=70% fig-align="center"}
+
+## Issues {.nostretch}
+
+![](./figures/gh_issues.png){width=80%}
+
+:::: {.columns}
+::: {.column width=50%}
+![](./figures/gh_issue_thread.png)
+:::
+
+::: {.column width=50% .small-text}
+- Shared to-do list
+- Discuss about bugs or new developments
+- Useful info for other users/developers
+- Foster a culture of openness!
+:::
+::::
+
+## Github doesn't own git! {.nostretch}
+
+...but Microsoft owns GitHub...
+
+![](./figures/gitlab_logo.png){.absolute width=30%}
+
+![](./figures/codeberg_logo.png){.absolute width=30% left=300 top=300}
+
+![](./figures/forgejo_logo.png){.absolute width=25% left=500 top=200}
+
+::: {.absolute top=450}
+...and the Uni's own GitLab instance! [git.ecdf.ed.ac.uk](https://git.ecdf.ed.ac.uk)
+:::
+
+## Thank you!
+
+
