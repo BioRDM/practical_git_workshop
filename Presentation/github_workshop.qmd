@@ -394,6 +394,8 @@ On github, create a pull request to merge dev into main.
 ...and the Uni's own GitLab instance! [git.ecdf.ed.ac.uk](https://git.ecdf.ed.ac.uk)
 :::
 
-## Thank you!
+# Thank you!
 
+Find the presentation and help sheets on GitHub:
 
+[github.com/BioRDM/practical_git_workshop](https://github.com/BioRDM/practical_git_workshop)
