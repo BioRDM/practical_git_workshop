@@ -24,15 +24,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.72248176"
-     inkscape:cx="329.42008"
-     inkscape:cy="260.90624"
+     inkscape:zoom="1.4449635"
+     inkscape:cx="570.94867"
+     inkscape:cy="830.81682"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" /><defs
+     inkscape:current-layer="g32812-7" /><defs
      id="defs2"><rect
        x="1175.9948"
        y="687.21458"
@@ -290,55 +290,55 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5;font-family:Lato;-inkscape-font-specification:Lato;white-space:pre;shape-inside:url(#rect1129-3-78-3);display:inline;fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:1.88976"><tspan
            x="54.748047"
            y="197.07531"
-           id="tspan57690"><tspan
+           id="tspan1458"><tspan
    style="font-weight:bold"
-   id="tspan57688">Italics</tspan>
+   id="tspan1456">Italics</tspan>
 </tspan><tspan
            x="54.748047"
            y="221.07531"
-           id="tspan57692">*emphasised text*
+           id="tspan1460">*emphasised text*
 </tspan><tspan
            x="54.748047"
            y="245.07531"
-           id="tspan57694">
+           id="tspan1462">
 </tspan><tspan
            x="54.748047"
            y="269.07531"
-           id="tspan57698"><tspan
+           id="tspan1466"><tspan
    style="font-weight:bold"
-   id="tspan57696">Bold</tspan>
+   id="tspan1464">Bold</tspan>
 </tspan><tspan
            x="54.748047"
            y="293.07531"
-           id="tspan57700">**important text**
+           id="tspan1468">**important text**
 </tspan><tspan
            x="54.748047"
            y="317.07531"
-           id="tspan57702">
+           id="tspan1470">
 </tspan><tspan
            x="54.748047"
            y="341.07531"
-           id="tspan57706"><tspan
+           id="tspan1474"><tspan
    style="font-weight:bold"
-   id="tspan57704">Superscript</tspan>
+   id="tspan1472">Superscript</tspan>
 </tspan><tspan
            x="54.748047"
            y="365.07531"
-           id="tspan57708">X^2^Y
+           id="tspan1476">X^2^Y
 </tspan><tspan
            x="54.748047"
            y="389.07531"
-           id="tspan57710">
+           id="tspan1478">
 </tspan><tspan
            x="54.748047"
            y="413.07531"
-           id="tspan57714"><tspan
+           id="tspan1482"><tspan
    style="font-weight:bold"
-   id="tspan57712">Subscript</tspan>
+   id="tspan1480">Subscript</tspan>
 </tspan><tspan
            x="54.748047"
            y="437.07531"
-           id="tspan57716">H~2~O
+           id="tspan1484">H~2~O
 </tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,51.557327,49.459587)"
@@ -346,51 +346,51 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5;font-family:Lato;-inkscape-font-specification:Lato;white-space:pre;shape-inside:url(#rect1129-3-2-4-2);display:inline;fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:1.88976"><tspan
            x="54.748047"
            y="197.07531"
-           id="tspan57720"><tspan
+           id="tspan1488"><tspan
    style="font-style:italic"
-   id="tspan57718">emphasised text</tspan>
+   id="tspan1486">emphasised text</tspan>
 </tspan><tspan
            x="54.748047"
            y="221.07531"
-           id="tspan57722">
+           id="tspan1490">
 </tspan><tspan
            x="54.748047"
            y="245.07531"
-           id="tspan57724">
+           id="tspan1492">
 </tspan><tspan
            x="54.748047"
            y="269.07531"
-           id="tspan57728"><tspan
+           id="tspan1496"><tspan
    style="font-weight:bold"
-   id="tspan57726">important text</tspan>
+   id="tspan1494">important text</tspan>
 </tspan><tspan
            x="54.748047"
            y="293.07531"
-           id="tspan57730">
+           id="tspan1498">
 </tspan><tspan
            x="54.748047"
            y="317.07531"
-           id="tspan57732">
+           id="tspan1500">
 </tspan><tspan
            x="54.748047"
            y="341.07531"
-           id="tspan57736">X<tspan
+           id="tspan1504">X<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan57734">2</tspan>Y
+   id="tspan1502">2</tspan>Y
 </tspan><tspan
            x="54.748047"
            y="365.07531"
-           id="tspan57738">
+           id="tspan1506">
 </tspan><tspan
            x="54.748047"
            y="389.07531"
-           id="tspan57740">
+           id="tspan1508">
 </tspan><tspan
            x="54.748047"
            y="413.07531"
-           id="tspan57744">H<tspan
+           id="tspan1512">H<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan57742">2</tspan>O
+   id="tspan1510">2</tspan>O
 </tspan></text></g><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,164.84573,102.84509)"
@@ -398,7 +398,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.5;font-family:Lato;-inkscape-font-specification:Lato;white-space:pre;shape-inside:url(#rect1129-3-2-3);display:inline;fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:1.88976"><tspan
          x="54.748047"
          y="201.29531"
-         id="tspan57746">
+         id="tspan1514">
 </tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.5;font-family:Lato;-inkscape-font-specification:Lato;fill:#1a5fb4;fill-opacity:0.9;stroke:none;stroke-width:0.499999"
@@ -460,32 +460,32 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5;font-family:Lato;-inkscape-font-specification:Lato;white-space:pre;shape-inside:url(#rect1129-3-78-7);display:inline;fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:1.88976"><tspan
            x="54.748047"
            y="197.07531"
-           id="tspan57748"># Heading 1
+           id="tspan1516"># Heading 1
 </tspan><tspan
            x="54.748047"
            y="221.07531"
-           id="tspan57750">
+           id="tspan1518">
 </tspan><tspan
            x="54.748047"
            y="245.07531"
-           id="tspan57752">## Heading 2
+           id="tspan1520">## Heading 2
 </tspan><tspan
            x="54.748047"
            y="269.07531"
-           id="tspan57754">
+           id="tspan1522">
 </tspan><tspan
            x="54.748047"
            y="293.07531"
-           id="tspan57756">### Heading 3</tspan></text><text
+           id="tspan1524">### Heading 3</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,41.889673,-15.5965)"
          id="text1127-9-7-06-5"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5;font-family:Lato;-inkscape-font-specification:Lato;white-space:pre;shape-inside:url(#rect1129-3-2-4-6);display:inline;fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:1.88976"><tspan
            x="54.748047"
            y="215.36195"
-           id="tspan57760"><tspan
+           id="tspan1528"><tspan
              style="font-size:33.3333px"
-             id="tspan57758">Heading 1</tspan></tspan></text><text
+             id="tspan1526">Heading 1</tspan></tspan></text><text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.5;font-family:Lato;-inkscape-font-specification:Lato;fill:#99c1f1;fill-opacity:1;stroke:none;stroke-width:0.499999"
          x="56.536488"
@@ -536,36 +536,36 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5;font-family:Lato;-inkscape-font-specification:Lato;white-space:pre;shape-inside:url(#rect1129-3-78-31);display:inline;fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:1.88976"><tspan
            x="54.748047"
            y="197.07531"
-           id="tspan57764"><tspan
+           id="tspan1532"><tspan
              style="font-weight:bold"
-             id="tspan57762">URL
+             id="tspan1530">URL
 </tspan></tspan><tspan
            x="54.748047"
            y="221.07531"
-           id="tspan57766">[github](https://github.com)
+           id="tspan1534">[github](https://github.com)
 </tspan><tspan
            x="54.748047"
            y="245.07531"
-           id="tspan57768">
+           id="tspan1536">
 </tspan><tspan
            x="54.748047"
            y="269.07531"
-           id="tspan57772"><tspan
+           id="tspan1540"><tspan
    style="font-weight:bold"
-   id="tspan57770">Image</tspan>
+   id="tspan1538">Image</tspan>
 </tspan><tspan
            x="54.748047"
            y="293.07531"
-           id="tspan57774">![alt-text](path/github.png)</tspan></text><text
+           id="tspan1542">![alt-text](path/github.png)</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,163.76687,200.05045)"
          id="text1127-9-7-2-4-6"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5;font-family:Lato;-inkscape-font-specification:Lato;white-space:pre;shape-inside:url(#rect1129-3-2-9-8-4);display:inline;fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:1.88976"><tspan
            x="54.748047"
            y="197.07531"
-           id="tspan57778"><tspan
+           id="tspan1546"><tspan
              style="fill:#1a5fb4"
-             id="tspan57776">github</tspan></tspan></text><text
+             id="tspan1544">github</tspan></tspan></text><text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.7254px;line-height:1.5;font-family:Lato;-inkscape-font-specification:Lato;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.25613"
          x="176.54533"
@@ -606,13 +606,13 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5;font-family:Lato;-inkscape-font-specification:Lato;white-space:pre;shape-inside:url(#rect1129-3-7-95-4);display:inline;fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:1.88976"><tspan
            x="54.748047"
            y="197.07531"
-           id="tspan57782"><tspan
+           id="tspan1550"><tspan
    style="font-weight:bold"
-   id="tspan57780">Horizontal rule</tspan>
+   id="tspan1548">Horizontal rule</tspan>
 </tspan><tspan
            x="54.748047"
            y="221.07531"
-           id="tspan57784">---
+           id="tspan1552">---
 </tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,99.522313,115.06644)"
@@ -620,25 +620,25 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5;font-family:Lato;-inkscape-font-specification:Lato;white-space:pre;shape-inside:url(#rect1129-3-7-9-0-9);display:inline;fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:1.88976"><tspan
            x="54.748047"
            y="197.07531"
-           id="tspan57788"><tspan
+           id="tspan1556"><tspan
    style="font-weight:bold"
-   id="tspan57786">Table</tspan>
+   id="tspan1554">Table</tspan>
 </tspan><tspan
            x="54.748047"
            y="221.07531"
-           id="tspan57790">| Column 1 | Column 2 |
+           id="tspan1558">| Column 1 | Column 2 |
 </tspan><tspan
            x="54.748047"
            y="245.07531"
-           id="tspan57792">| --- | --- |
+           id="tspan1560">| --- | --- |
 </tspan><tspan
            x="54.748047"
            y="269.07531"
-           id="tspan57794">| Content 1 | Content 2 |
+           id="tspan1562">| Content 1 | Content 2 |
 </tspan><tspan
            x="54.748047"
            y="293.07531"
-           id="tspan57796">| Content 3 | Content 4 |
+           id="tspan1564">| Content 3 | Content 4 |
 </tspan></text><path
          style="fill:#1a5fb4;fill-opacity:0.9;stroke:#000000;stroke-width:0.499999"
          d="m 112.97886,156.80135 h 76.32999"
@@ -667,7 +667,7 @@
            id="text32313-6"><tspan
              sodipodi:role="line"
              id="tspan32311-5"
-             style="font-size:3.52778px;fill:#000000;stroke:none;stroke-width:0.5"
+             style="font-size:3.52778px;fill:#000000;stroke:none;stroke-width:0.5;font-weight:bold"
              x="246.24854"
              y="215.04303">Column 1</tspan></text><text
            xml:space="preserve"
@@ -677,9 +677,9 @@
            id="text32313-7-63"><tspan
              sodipodi:role="line"
              id="tspan32311-2-94"
-             style="font-size:3.52778px;fill:#000000;stroke:none;stroke-width:0.5"
+             style="font-size:3.52778px;fill:#000000;stroke:none;stroke-width:0.5;font-weight:bold"
              x="268.36301"
-             y="215.04303">Column 1</tspan></text><text
+             y="215.04303">Column 2</tspan></text><text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.5;font-family:Lato;-inkscape-font-specification:Lato;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none"
            x="246.24854"
@@ -750,51 +750,51 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5;font-family:Lato;-inkscape-font-specification:Lato;white-space:pre;shape-inside:url(#rect1129-3-6-8-3-1-9);display:inline;fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:1.88976"><tspan
            x="54.748047"
            y="197.07531"
-           id="tspan57800"><tspan
+           id="tspan1568"><tspan
    style="font-weight:bold"
-   id="tspan57798">Inline code</tspan>
+   id="tspan1566">Inline code</tspan>
 </tspan><tspan
            x="54.748047"
            y="221.07531"
-           id="tspan57802">`df &lt;- data.frame()`
+           id="tspan1570">`df &lt;- data.frame()`
 </tspan><tspan
            x="54.748047"
            y="245.07531"
-           id="tspan57804">
+           id="tspan1572">
 </tspan><tspan
            x="54.748047"
            y="269.07531"
-           id="tspan57806">
+           id="tspan1574">
 </tspan><tspan
            x="54.748047"
            y="293.07531"
-           id="tspan57810"><tspan
+           id="tspan1578"><tspan
    style="font-weight:bold"
-   id="tspan57808">Code block</tspan>
+   id="tspan1576">Code block</tspan>
 </tspan><tspan
            x="54.748047"
            y="317.07531"
-           id="tspan57812">```r
+           id="tspan1580">```r
 </tspan><tspan
            x="54.748047"
            y="341.07531"
-           id="tspan57814">drop_duplicates &lt;- function(df) {
+           id="tspan1582">drop_duplicates &lt;- function(df) {
 </tspan><tspan
            x="54.748047"
            y="365.07531"
-           id="tspan57816">  df &lt;- df[!duplicated(df), ]
+           id="tspan1584">  df &lt;- df[!duplicated(df), ]
 </tspan><tspan
            x="54.748047"
            y="389.07531"
-           id="tspan57818">  return(df)
+           id="tspan1586">  return(df)
 </tspan><tspan
            x="54.748047"
            y="413.07531"
-           id="tspan57820">}
+           id="tspan1588">}
 </tspan><tspan
            x="54.748047"
            y="437.07531"
-           id="tspan57822">```</tspan></text><g
+           id="tspan1590">```</tspan></text><g
          id="g43902-1-6-4"
          transform="translate(-293.42398,40.512301)"><rect
            style="fill:#fafafa;fill-opacity:1;stroke:#77767b;stroke-width:0.25;stroke-dasharray:none"
@@ -811,11 +811,11 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.5;font-family:Lato;-inkscape-font-specification:Lato;white-space:pre;shape-inside:url(#rect1129-3-2-1-5-8-8-7);display:inline;fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:1.88976"><tspan
              x="54.748047"
              y="194.26194"
-             id="tspan57828"><tspan
+             id="tspan1596"><tspan
                style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#a31515;fill-opacity:0.898039"
-               id="tspan57824">df &lt;- data.frame()</tspan><tspan
+               id="tspan1592">df &lt;- data.frame()</tspan><tspan
                style="fill:#a31515;fill-opacity:0.898039"
-               id="tspan57826">
+               id="tspan1594">
 </tspan></tspan></text></g><g
          id="g43896-0-8-3"
          transform="translate(-293.42503,70.570504)"><rect
@@ -833,29 +833,29 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.5;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';white-space:pre;shape-inside:url(#rect33311-5-9-7);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.88976;stroke-dasharray:none"><tspan
              x="1175.9941"
              y="700.67835"
-             id="tspan57836"><tspan
+             id="tspan1604"><tspan
    style="fill:#795e26"
-   id="tspan57830">drop_duplicates</tspan> &lt;- <tspan
+   id="tspan1598">drop_duplicates</tspan> &lt;- <tspan
    style="fill:#0000ff"
-   id="tspan57832">function</tspan>(<tspan
+   id="tspan1600">function</tspan>(<tspan
    style="fill:#001080"
-   id="tspan57834">df</tspan>) {
+   id="tspan1602">df</tspan>) {
 </tspan><tspan
              x="1175.9941"
              y="720.67829"
-             id="tspan57840">  df &lt;- df[!<tspan
+             id="tspan1608">  df &lt;- df[!<tspan
    style="fill:#795e26"
-   id="tspan57838">duplicated</tspan>(df), ]
+   id="tspan1606">duplicated</tspan>(df), ]
 </tspan><tspan
              x="1175.9941"
              y="740.67823"
-             id="tspan57844">  <tspan
+             id="tspan1612">  <tspan
    style="fill:#0000ff"
-   id="tspan57842">return</tspan>(df)
+   id="tspan1610">return</tspan>(df)
 </tspan><tspan
              x="1175.9941"
              y="760.67817"
-             id="tspan57846">}</tspan></text></g></g><g
+             id="tspan1614">}</tspan></text></g></g><g
        id="g55615"
        transform="translate(0,5.8208336)"><rect
          style="fill:#3584e4;fill-opacity:0.9;stroke:none;stroke-width:0.42707"
@@ -886,65 +886,65 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5;font-family:Lato;-inkscape-font-specification:Lato;white-space:pre;shape-inside:url(#rect1129-3-78-4);display:inline;fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:1.88976"><tspan
            x="54.748047"
            y="197.07531"
-           id="tspan57850"><tspan
+           id="tspan1618"><tspan
    style="font-weight:bold"
-   id="tspan57848">Unordered list</tspan>
+   id="tspan1616">Unordered list</tspan>
 </tspan><tspan
            x="54.748047"
            y="221.07531"
-           id="tspan57852">- An item
+           id="tspan1620">- An item
 </tspan><tspan
            x="54.748047"
            y="245.07531"
-           id="tspan57854">- Another item
+           id="tspan1622">- Another item
 </tspan><tspan
            x="54.748047"
            y="269.07531"
-           id="tspan57856">- Another one
+           id="tspan1624">- Another one
 </tspan><tspan
            x="54.748047"
            y="293.07531"
-           id="tspan57858">
+           id="tspan1626">
 </tspan><tspan
            x="54.748047"
            y="317.07531"
-           id="tspan57862"><tspan
+           id="tspan1630"><tspan
    style="font-weight:bold"
-   id="tspan57860">Ordered list</tspan>
+   id="tspan1628">Ordered list</tspan>
 </tspan><tspan
            x="54.748047"
            y="341.07531"
-           id="tspan57864">1. First item
+           id="tspan1632">1. First item
 </tspan><tspan
            x="54.748047"
            y="365.07531"
-           id="tspan57866">2. Second item
+           id="tspan1634">2. Second item
 </tspan><tspan
            x="54.748047"
            y="389.07531"
-           id="tspan57868">3. Third item
+           id="tspan1636">3. Third item
 </tspan><tspan
            x="54.748047"
            y="413.07531"
-           id="tspan57870">
+           id="tspan1638">
 </tspan><tspan
            x="54.748047"
            y="437.07531"
-           id="tspan57874"><tspan
+           id="tspan1642"><tspan
              style="font-weight:bold"
-             id="tspan57872">Checkboxes
+             id="tspan1640">Checkboxes
 </tspan></tspan><tspan
            x="54.748047"
            y="461.07531"
-           id="tspan57878">- <tspan
+           id="tspan1646">- <tspan
    style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
-   id="tspan57876">[x] </tspan>Completed task
+   id="tspan1644">[x] </tspan>Completed task
 </tspan><tspan
            x="54.748047"
            y="485.79907"
-           id="tspan57882">- <tspan
+           id="tspan1650">- <tspan
    style="font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
-   id="tspan57880">[ ] </tspan>Open task
+   id="tspan1648">[ ] </tspan>Open task
 </tspan></text><g
          id="g53205"
          transform="translate(-0.52916667)"><text
@@ -954,51 +954,51 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5;font-family:Lato;-inkscape-font-specification:Lato;white-space:pre;shape-inside:url(#rect1129-3-2-4-4);display:inline;fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:1.88976"><tspan
              x="54.748047"
              y="197.07531"
-             id="tspan57884">   An item
+             id="tspan1652">   An item
 </tspan><tspan
              x="54.748047"
              y="221.07531"
-             id="tspan57886">   Another item
+             id="tspan1654">   Another item
 </tspan><tspan
              x="54.748047"
              y="245.07531"
-             id="tspan57888">   Another one
+             id="tspan1656">   Another one
 </tspan><tspan
              x="54.748047"
              y="269.07531"
-             id="tspan57890">
+             id="tspan1658">
 </tspan><tspan
              x="54.748047"
              y="293.07531"
-             id="tspan57892">
+             id="tspan1660">
 </tspan><tspan
              x="54.748047"
              y="317.07531"
-             id="tspan57894">1. First item
+             id="tspan1662">1. First item
 </tspan><tspan
              x="54.748047"
              y="341.07531"
-             id="tspan57896">2. Second item
+             id="tspan1664">2. Second item
 </tspan><tspan
              x="54.748047"
              y="365.07531"
-             id="tspan57898">3. Third item
+             id="tspan1666">3. Third item
 </tspan><tspan
              x="54.748047"
              y="389.07531"
-             id="tspan57900">
+             id="tspan1668">
 </tspan><tspan
              x="54.748047"
              y="413.07531"
-             id="tspan57902">
+             id="tspan1670">
 </tspan><tspan
              x="54.748047"
              y="437.07531"
-             id="tspan57904">     Completed task
+             id="tspan1672">     Completed task
 </tspan><tspan
              x="54.748047"
              y="461.07531"
-             id="tspan57906">     Open task
+             id="tspan1674">     Open task
 </tspan></text><circle
            style="fill:#000000;fill-opacity:0.898039;stroke:#000000;stroke-width:0.25;stroke-dasharray:none"
            id="path48804"
