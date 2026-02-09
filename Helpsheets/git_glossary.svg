@@ -9,11 +9,15 @@
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="git_glossary.svg"
+   inkscape:export-filename="git_glossary.pdf"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
      id="namedview7"
      pagecolor="#fff6f6"
      bordercolor="#000000"
@@ -25,112 +29,98 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.69931958"
-     inkscape:cx="293.14208"
-     inkscape:cy="569.83961"
+     inkscape:cx="334.61097"
+     inkscape:cy="559.82988"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
-  <defs
-     id="defs2">
-    <rect
+     inkscape:current-layer="g18149" /><defs
+     id="defs2"><rect
        x="38.832389"
        y="965.1178"
        width="733.79907"
        height="179.34963"
-       id="rect37716" />
-    <rect
+       id="rect37716" /><rect
        x="48.222096"
        y="157.27341"
        width="351.1305"
        height="166.23373"
-       id="rect10917" />
-    <rect
+       id="rect10917" /><rect
        x="-664.14216"
        y="259.70381"
        width="386.33271"
        height="278.25182"
-       id="rect8540" />
-    <rect
+       id="rect8540" /><rect
        x="-478.3556"
        y="663.56911"
        width="435.29477"
        height="358.55165"
-       id="rect8528" />
-    <rect
+       id="rect8528" /><rect
        x="-383.42515"
        y="852.94404"
        width="353.79256"
        height="385.75442"
-       id="rect8520" />
-    <rect
+       id="rect8520" /><rect
        x="-393.88733"
        y="381.12939"
        width="350.68128"
        height="526.08057"
-       id="rect8512" />
-    <rect
+       id="rect8512" /><rect
        x="419.30825"
        y="130.14883"
        width="345.31892"
        height="979.65202"
-       id="rect6888" />
-    <rect
+       id="rect6888" /><rect
        x="40.26235"
        y="126.61303"
        width="357.1824"
        height="1225.8437"
-       id="rect1201" />
-    <rect
+       id="rect1201" /><rect
        x="48.222095"
        y="157.27341"
        width="318.07703"
        height="278.14984"
-       id="rect10917-5" />
-    <rect
+       id="rect10917-5" /><rect
        x="48.222095"
        y="157.27341"
        width="318.07703"
        height="278.14984"
-       id="rect10917-1" />
-    <rect
+       id="rect10917-1" /><rect
        x="48.222095"
        y="157.27341"
        width="344.32739"
        height="224.52422"
-       id="rect10917-6" />
-    <rect
+       id="rect10917-6" /><rect
        x="48.222095"
        y="157.27341"
        width="342.76619"
        height="614.58737"
-       id="rect10917-6-8" />
-    <rect
+       id="rect10917-6-8" /><rect
        x="48.222095"
        y="157.27341"
        width="339.83391"
        height="760.0746"
-       id="rect10917-6-3" />
-    <rect
+       id="rect10917-6-3" /><rect
        x="48.222095"
        y="157.27341"
        width="339.30301"
        height="447.04167"
-       id="rect10917-6-8-7" />
-    <rect
+       id="rect10917-6-8-7" /><rect
        x="48.222095"
        y="157.27341"
        width="325.89154"
        height="135.18719"
-       id="rect10917-6-8-7-7" />
-  </defs>
-  <g
+       id="rect10917-6-8-7-7" /><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4366"><path
+         style="fill:#000000;stroke-width:0.999998"
+         d="m 44.95315,15.225889 c -0.118377,-0.01855 -0.245001,-0.07424 -0.340564,-0.149776 -0.102782,-0.08124 -4.459038,-4.446057 -4.503539,-4.512383 -0.08394,-0.125115 -0.123674,-0.253198 -0.123674,-0.39868 0,-0.150482 0.04126,-0.2790959 0.130104,-0.4055643 0.02675,-0.038081 0.29383,-0.3165243 0.593508,-0.6187623 0.299677,-0.3022378 0.823653,-0.8308229 1.164389,-1.1746338 0.340738,-0.3438107 0.786288,-0.7932735 0.990113,-0.9988061 l 0.370591,-0.3736956 0.5446,0.5445278 0.544602,0.5445281 -0.02588,0.064062 c -0.038,0.094112 -0.05211,0.1942063 -0.04571,0.3242588 0.01061,0.2155772 0.07593,0.3674631 0.221514,0.5150178 0.07923,0.080302 0.105061,0.09896 0.19979,0.1443101 l 0.108796,0.052084 5.3e-4,1.3965645 5.29e-4,1.396565 -0.04004,0.01617 c -0.09794,0.03955 -0.15994,0.07855 -0.234034,0.147219 -0.109429,0.101415 -0.168836,0.188513 -0.213752,0.313386 -0.03244,0.0902 -0.03818,0.121068 -0.04311,0.232159 -0.0042,0.09507 -0.0013,0.149563 0.01156,0.211219 0.07006,0.33774 0.321426,0.573451 0.669533,0.627844 0.140626,0.02197 0.344911,-0.0071 0.458918,-0.06522 0.02254,-0.0115 0.04728,-0.01934 0.05496,-0.01742 0.0077,0.0019 0.01,0.0013 0.0051,-0.0013 -0.0049,-0.0026 0.0071,-0.01436 0.02669,-0.02608 0.181411,-0.108662 0.311721,-0.297444 0.357441,-0.517834 0.02466,-0.118924 0.01495,-0.311964 -0.02085,-0.414083 -0.0382,-0.108984 -0.04936,-0.131817 -0.09957,-0.20388 -0.08981,-0.12889 -0.229761,-0.239358 -0.369607,-0.29175 l -0.02936,-0.011 V 10.193724 8.8124998 l 0.0272,-0.01239 c 0.01495,-0.00681 0.0342,-0.01239 0.04276,-0.01239 0.0086,0 0.253307,0.2378138 0.543885,0.5284753 l 0.52832,0.5284753 -0.02246,0.056091 c -0.07211,0.1800146 -0.06998,0.4192166 0.0054,0.6046896 0.08052,0.198157 0.248901,0.363111 0.445698,0.436617 0.07992,0.02985 0.22066,0.05583 0.301554,0.05565 0.08735,-1.86e-4 0.248377,-0.03427 0.322733,-0.06831 0.03303,-0.01512 0.06509,-0.02438 0.07125,-0.02058 0.007,0.0044 0.008,0.0017 0.0024,-0.0072 -0.0066,-0.0106 -0.0037,-0.01221 0.01138,-0.0064 0.01106,0.0042 0.01667,0.0043 0.01249,8.5e-5 -0.0042,-0.0042 0.01749,-0.02455 0.04817,-0.04522 0.15744,-0.106027 0.281882,-0.305614 0.31795,-0.509949 0.01651,-0.09346 0.0087,-0.283346 -0.01519,-0.3725652 C 47.895198,9.7251776 47.696436,9.5136038 47.458872,9.433856 47.278151,9.37319 47.105687,9.372062 46.933187,9.430416 l -0.101153,0.03414 -0.522531,-0.5225942 c -0.28739,-0.2874272 -0.52478,-0.5282716 -0.527529,-0.5352097 -0.0027,-0.00694 0.0044,-0.031994 0.01582,-0.055679 0.07627,-0.1578617 0.0685,-0.4532894 -0.01683,-0.6396632 -0.01453,-0.031745 -0.02331,-0.062755 -0.0195,-0.068911 0.0038,-0.00616 0.0021,-0.00827 -0.0036,-0.0047 -0.0058,0.00357 -0.02381,-0.014552 -0.04007,-0.040275 -0.04284,-0.06777 -0.171481,-0.187856 -0.250645,-0.2339737 -0.213556,-0.124406 -0.509198,-0.1467787 -0.712666,-0.053931 -0.01849,0.00844 -0.04013,0.015333 -0.04805,0.015306 -0.01458,-5.13e-5 -1.087443,-1.0673601 -1.087443,-1.0818275 0,-0.014817 0.971556,-0.9777307 1.020437,-1.0113624 0.06498,-0.04471 0.188151,-0.1002374 0.260806,-0.1175795 0.07534,-0.017984 0.223612,-0.017984 0.298958,0 0.07372,0.017595 0.19608,0.07305 0.26345,0.1193954 0.078,0.053657 4.476285,4.4565122 4.527275,4.5319807 0.08221,0.1216707 0.123473,0.2551821 0.123473,0.3995231 0,0.147077 -0.03921,0.273518 -0.124007,0.399878 -0.05067,0.0755 -4.447667,4.477216 -4.526823,4.531678 -0.06335,0.04359 -0.188322,0.101201 -0.252693,0.116495 -0.07268,0.01727 -0.190468,0.02314 -0.256537,0.01279 z"
+         id="path4368" /></clipPath></defs><g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
-    <text
+     id="layer1"><text
        xml:space="preserve"
        style="font-size:10.5833px;line-height:1.5;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';text-align:center;letter-spacing:0.529167px;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.3"
        x="105.60947"
@@ -140,11 +130,9 @@
          id="tspan184"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Lato;-inkscape-font-specification:Lato;fill:#000000;stroke:none;stroke-width:0.3"
          x="105.87405"
-         y="12.523647">Git Glossary</tspan></text>
-    <g
+         y="12.523647">Git Glossary</tspan></text><g
        id="g18149"
-       transform="translate(0,-19.579172)">
-      <rect
+       transform="translate(0,-19.579172)"><rect
          style="fill:#ffffff;fill-opacity:0.7;stroke:#f66151;stroke-width:0.937337;stroke-dasharray:none"
          id="rect502"
          width="96.06266"
@@ -152,8 +140,7 @@
          x="6.4684992"
          y="50.307804"
          ry="5"
-         rx="5" />
-      <rect
+         rx="5" /><rect
          style="fill:#c01c28;fill-opacity:0.998528;stroke:none;stroke-width:0.253436"
          id="rect9002"
          width="51.256992"
@@ -161,8 +148,7 @@
          x="28.871334"
          y="44.336651"
          rx="2"
-         ry="2" />
-      <text
+         ry="2" /><text
          xml:space="preserve"
          style="font-size:7.05556px;line-height:1.5;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';text-align:start;text-anchor:start;fill:#c01c28;fill-opacity:1;stroke:none;stroke-width:0.3"
          x="41.672009"
@@ -172,311 +158,297 @@
            id="tspan10529"
            style="font-size:7.05556px;fill:#ffffff;stroke:none;stroke-width:0.3"
            x="41.672009"
-           y="52.982487">General</tspan></text>
-      <text
+           y="52.982487">General</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,-3.1750001,16.404164)"
          id="text10915"
          style="font-size:16px;line-height:1.5;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';text-align:start;white-space:pre;shape-inside:url(#rect10917);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.13386"><tspan
            x="48.222656"
            y="173.45022"
-           id="tspan38600"><tspan
-             style="font-weight:bold"
-             id="tspan38596">git</tspan><tspan
+           id="tspan5411"><tspan
+             style="font-weight:bold;fill:#000000"
+             id="tspan5407">git</tspan><tspan
              style="fill:#000000"
-             id="tspan38598">
+             id="tspan5409">
 </tspan></tspan><tspan
            x="48.222656"
            y="197.45022"
-           id="tspan38604"><tspan
+           id="tspan5415"><tspan
              style="fill:#000000"
-             id="tspan38602">An open-source file versioning system
+             id="tspan5413">A free and open-source file versioning system
 </tspan></tspan><tspan
            x="48.222656"
            y="221.45022"
-           id="tspan38608"><tspan
+           id="tspan5419"><tspan
              style="fill:#000000"
-             id="tspan38606">
+             id="tspan5417">
 </tspan></tspan><tspan
            x="48.222656"
            y="245.45022"
-           id="tspan38614"><tspan
-             style="font-weight:bold"
-             id="tspan38610">GitHub</tspan><tspan
+           id="tspan5425"><tspan
+             style="font-weight:bold;fill:#000000"
+             id="tspan5421">GitHub</tspan><tspan
              style="fill:#000000"
-             id="tspan38612">
+             id="tspan5423">
 </tspan></tspan><tspan
            x="48.222656"
            y="269.45022"
-           id="tspan38618"><tspan
+           id="tspan5429"><tspan
              style="fill:#000000"
-             id="tspan38616">A website for hosting and managing git </tspan></tspan><tspan
+             id="tspan5427">A website for hosting and managing git </tspan></tspan><tspan
            x="48.222656"
            y="293.45022"
-           id="tspan38622"><tspan
+           id="tspan5433"><tspan
              style="fill:#000000"
-             id="tspan38620">repositories</tspan></tspan></text>
-    </g>
-    <rect
-       style="fill:#ffffff;fill-opacity:0.9;stroke:#99c1f1;stroke-width:0.973729;stroke-dasharray:none"
-       id="rect502-0"
-       width="96.026268"
-       height="68.982208"
-       x="108.85751"
-       y="30.74683"
-       ry="5"
-       rx="5" />
-    <rect
-       style="fill:#1a5fb4;fill-opacity:0.998528;stroke:none;stroke-width:0.315303"
-       id="rect9002-6"
-       width="79.336258"
-       height="12"
-       x="117.20253"
-       y="24.710178"
-       rx="2"
-       ry="2" />
-    <text
-       xml:space="preserve"
-       style="font-size:7.05556px;line-height:1.5;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';text-align:start;text-anchor:start;fill:#c01c28;fill-opacity:1;stroke:none;stroke-width:0.3"
-       x="124.6462"
-       y="32.886497"
-       id="text10531-2"><tspan
-         sodipodi:role="line"
-         id="tspan10529-6"
-         style="font-size:7.05556px;fill:#ffffff;stroke:none;stroke-width:0.3"
+             id="tspan5431">repositories</tspan></tspan></text></g><g
+       id="g2110"><rect
+         style="fill:#ffffff;fill-opacity:0.9;stroke:#99c1f1;stroke-width:0.973729;stroke-dasharray:none"
+         id="rect502-0"
+         width="96.026268"
+         height="68.982208"
+         x="108.85751"
+         y="30.74683"
+         ry="5"
+         rx="5" /><rect
+         style="fill:#1a5fb4;fill-opacity:0.998528;stroke:none;stroke-width:0.315303"
+         id="rect9002-6"
+         width="79.336258"
+         height="12"
+         x="117.20253"
+         y="24.710178"
+         rx="2"
+         ry="2" /><text
+         xml:space="preserve"
+         style="font-size:7.05556px;line-height:1.5;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';text-align:start;text-anchor:start;fill:#c01c28;fill-opacity:1;stroke:none;stroke-width:0.3"
          x="124.6462"
-         y="32.886497"> File Management</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,99.724994,-3.1750055)"
-       id="text10915-1"
-       style="font-size:16px;line-height:1.5;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';text-align:start;white-space:pre;shape-inside:url(#rect10917-6);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.13386"><tspan
-         x="48.222656"
-         y="173.45022"
-         id="tspan38628"><tspan
-           style="font-weight:bold"
-           id="tspan38624">Stage (or Add)</tspan><tspan
-           style="fill:#000000"
-           id="tspan38626">
+         y="32.886497"
+         id="text10531-2"><tspan
+           sodipodi:role="line"
+           id="tspan10529-6"
+           style="font-size:7.05556px;fill:#ffffff;stroke:none;stroke-width:0.3"
+           x="124.6462"
+           y="32.886497"> File Management</tspan></text><text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,99.724994,-3.1750055)"
+         id="text10915-1"
+         style="font-size:16px;line-height:1.5;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';text-align:start;white-space:pre;shape-inside:url(#rect10917-6);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.13386"><tspan
+           x="48.222656"
+           y="173.45022"
+           id="tspan5439"><tspan
+             style="font-weight:bold;fill:#000000"
+             id="tspan5435">Stage (or Add)</tspan><tspan
+             style="fill:#000000"
+             id="tspan5437">
 </tspan></tspan><tspan
-         x="48.222656"
-         y="197.45022"
-         id="tspan38632"><tspan
-           style="fill:#000000"
-           id="tspan38630">Add a new or edited file to the git index, to be </tspan></tspan><tspan
-         x="48.222656"
-         y="221.45022"
-         id="tspan38636"><tspan
-           style="fill:#000000"
-           id="tspan38634">included in the next commit
+           x="48.222656"
+           y="197.45022"
+           id="tspan5443"><tspan
+             style="fill:#000000"
+             id="tspan5441">Add a new, edited or deleted file to the git </tspan></tspan><tspan
+           x="48.222656"
+           y="221.45022"
+           id="tspan5447"><tspan
+             style="fill:#000000"
+             id="tspan5445">index, to be included in the next commit
 </tspan></tspan><tspan
-         x="48.222656"
-         y="245.45022"
-         id="tspan38640"><tspan
-           style="fill:#000000"
-           id="tspan38638">
+           x="48.222656"
+           y="245.45022"
+           id="tspan5451"><tspan
+             style="fill:#000000"
+             id="tspan5449">
 </tspan></tspan><tspan
-         x="48.222656"
-         y="269.45022"
-         id="tspan38646"><tspan
-           style="font-weight:bold"
-           id="tspan38642">Commit</tspan><tspan
-           style="fill:#000000"
-           id="tspan38644">
+           x="48.222656"
+           y="269.45022"
+           id="tspan5457"><tspan
+             style="font-weight:bold;fill:#000000"
+             id="tspan5453">Commit</tspan><tspan
+             style="fill:#000000"
+             id="tspan5455">
 </tspan></tspan><tspan
-         x="48.222656"
-         y="293.45022"
-         id="tspan38650"><tspan
-           style="fill:#000000"
-           id="tspan38648">Add one or several staged files to the git </tspan></tspan><tspan
-         x="48.222656"
-         y="317.45022"
-         id="tspan38654"><tspan
-           style="fill:#000000"
-           id="tspan38652">history. Commits are identified by a unique </tspan></tspan><tspan
-         x="48.222656"
-         y="341.45022"
-         id="tspan38658"><tspan
-           style="fill:#000000"
-           id="tspan38656">hash and a commit message, which describes </tspan></tspan><tspan
-         x="48.222656"
-         y="365.45022"
-         id="tspan38662"><tspan
-           style="fill:#000000"
-           id="tspan38660">what changes were made.</tspan></tspan></text>
-    <g
-       id="g18185"
-       transform="translate(0.80265665,-30.691679)">
-      <rect
+           x="48.222656"
+           y="293.45022"
+           id="tspan5461"><tspan
+             style="fill:#000000"
+             id="tspan5459">Add all staged files to the git history. Commits </tspan></tspan><tspan
+           x="48.222656"
+           y="317.45022"
+           id="tspan5465"><tspan
+             style="fill:#000000"
+             id="tspan5463">are identified by a unique hash and a commit </tspan></tspan><tspan
+           x="48.222656"
+           y="341.45022"
+           id="tspan5469"><tspan
+             style="fill:#000000"
+             id="tspan5467">message, which describes what changes were </tspan></tspan><tspan
+           x="48.222656"
+           y="365.45022"
+           id="tspan5473"><tspan
+             style="fill:#000000"
+             id="tspan5471">made.</tspan></tspan></text></g><g
+       id="g2100"><rect
          style="fill:#ffffff;fill-opacity:0.7;stroke:#57e389;stroke-width:0.955579;stroke-dasharray:none"
          id="rect502-0-75"
          width="96.044418"
          height="147.65161"
-         x="5.6749635"
-         y="117.67701"
+         x="6.4776201"
+         y="86.985329"
          ry="5"
-         rx="5" />
-      <rect
+         rx="5" /><rect
          style="fill:#26a269;fill-opacity:0.998528;stroke:none;stroke-width:0.282003"
          id="rect9002-6-92"
          width="63.463551"
          height="12"
-         x="21.965393"
-         y="111.6258"
+         x="22.768049"
+         y="80.93412"
          rx="2"
-         ry="2" />
-      <text
+         ry="2" /><text
          xml:space="preserve"
          style="font-size:7.05556px;line-height:1.5;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';text-align:start;text-anchor:start;fill:#c01c28;fill-opacity:1;stroke:none;stroke-width:0.3"
-         x="35.637474"
-         y="120.14565"
+         x="36.440132"
+         y="89.453972"
          id="text10531-2-28"><tspan
            sodipodi:role="line"
            id="tspan10529-6-9"
            style="font-size:7.05556px;fill:#ffffff;stroke:none;stroke-width:0.3"
-           x="35.637474"
-           y="120.14565"> Branches</tspan></text>
-      <text
+           x="36.440132"
+           y="89.453972"> Branches</tspan></text><text
          xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,-3.4485126,82.705926)"
+         transform="matrix(0.26458333,0,0,0.26458333,-2.645856,52.014247)"
          id="text10915-1-7"
          style="font-size:16px;line-height:1.5;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';text-align:start;white-space:pre;shape-inside:url(#rect10917-6-3);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.13386"><tspan
            x="48.222656"
            y="173.45022"
-           id="tspan38668"><tspan
-             style="font-weight:bold"
-             id="tspan38664">Branch</tspan><tspan
+           id="tspan5479"><tspan
+             style="font-weight:bold;fill:#000000"
+             id="tspan5475">Branch</tspan><tspan
              style="fill:#000000"
-             id="tspan38666">
+             id="tspan5477">
 </tspan></tspan><tspan
            x="48.222656"
            y="197.45022"
-           id="tspan38672"><tspan
+           id="tspan5483"><tspan
              style="fill:#000000"
-             id="tspan38670">An alternative version of the git repository
+             id="tspan5481">An alternative version of the git repository
 </tspan></tspan><tspan
            x="48.222656"
            y="221.45022"
-           id="tspan38676"><tspan
+           id="tspan5487"><tspan
              style="fill:#000000"
-             id="tspan38674">
+             id="tspan5485">
 </tspan></tspan><tspan
            x="48.222656"
            y="245.45022"
-           id="tspan38682"><tspan
-             style="font-weight:bold"
-             id="tspan38678">Checkout</tspan><tspan
+           id="tspan5493"><tspan
+             style="font-weight:bold;fill:#000000"
+             id="tspan5489">Checkout</tspan><tspan
              style="fill:#000000"
-             id="tspan38680">
+             id="tspan5491">
 </tspan></tspan><tspan
            x="48.222656"
            y="269.45022"
-           id="tspan38686"><tspan
+           id="tspan5497"><tspan
              style="fill:#000000"
-             id="tspan38684">Switch to a different branch. Updates all the </tspan></tspan><tspan
+             id="tspan5495">Switch to a different state of the repository. </tspan></tspan><tspan
            x="48.222656"
            y="293.45022"
-           id="tspan38690"><tspan
+           id="tspan5501"><tspan
              style="fill:#000000"
-             id="tspan38688">files to match their versions in the selected </tspan></tspan><tspan
+             id="tspan5499">Updates all the files to match their versions </tspan></tspan><tspan
            x="48.222656"
            y="317.45022"
-           id="tspan38694"><tspan
+           id="tspan5505"><tspan
              style="fill:#000000"
-             id="tspan38692">branch
+             id="tspan5503">in the selected commit or branch
 </tspan></tspan><tspan
            x="48.222656"
            y="341.45022"
-           id="tspan38698"><tspan
+           id="tspan5509"><tspan
              style="fill:#000000"
-             id="tspan38696">
+             id="tspan5507">
 </tspan></tspan><tspan
            x="48.222656"
            y="365.45022"
-           id="tspan38704"><tspan
-             style="font-weight:bold"
-             id="tspan38700">Merge</tspan><tspan
+           id="tspan5515"><tspan
+             style="font-weight:bold;fill:#000000"
+             id="tspan5511">Merge</tspan><tspan
              style="fill:#000000"
-             id="tspan38702">
+             id="tspan5513">
 </tspan></tspan><tspan
            x="48.222656"
            y="389.45022"
-           id="tspan38708"><tspan
+           id="tspan5519"><tspan
              style="fill:#000000"
-             id="tspan38706">Transfer the changes made in one branch to </tspan></tspan><tspan
+             id="tspan5517">Transfer the changes made in one branch to </tspan></tspan><tspan
            x="48.222656"
            y="413.45022"
-           id="tspan38712"><tspan
+           id="tspan5523"><tspan
              style="fill:#000000"
-             id="tspan38710">another branch.
+             id="tspan5521">another branch.
 </tspan></tspan><tspan
            x="48.222656"
            y="437.45022"
-           id="tspan38716"><tspan
+           id="tspan5527"><tspan
              style="fill:#000000"
-             id="tspan38714">
+             id="tspan5525">
 </tspan></tspan><tspan
            x="48.222656"
            y="461.45022"
-           id="tspan38722"><tspan
-             style="font-weight:bold"
-             id="tspan38718">Merge conflict</tspan><tspan
+           id="tspan5533"><tspan
+             style="font-weight:bold;fill:#000000"
+             id="tspan5529">Merge conflict</tspan><tspan
              style="fill:#000000"
-             id="tspan38720">
+             id="tspan5531">
 </tspan></tspan><tspan
            x="48.222656"
            y="485.45022"
-           id="tspan38726"><tspan
+           id="tspan5537"><tspan
              style="fill:#000000"
-             id="tspan38724">When the two branches in a merge have </tspan></tspan><tspan
+             id="tspan5535">When the two branches in a merge have </tspan></tspan><tspan
            x="48.222656"
            y="509.45022"
-           id="tspan38730"><tspan
+           id="tspan5541"><tspan
              style="fill:#000000"
-             id="tspan38728">conflicting changes. The conflicts must be </tspan></tspan><tspan
+             id="tspan5539">conflicting changes. The conflicts must be </tspan></tspan><tspan
            x="48.222656"
            y="533.45022"
-           id="tspan38734"><tspan
+           id="tspan5545"><tspan
              style="fill:#000000"
-             id="tspan38732">resolved by choosing one of the versions </tspan></tspan><tspan
+             id="tspan5543">resolved by choosing one of the versions </tspan></tspan><tspan
            x="48.222656"
            y="557.45022"
-           id="tspan38738"><tspan
+           id="tspan5549"><tspan
              style="fill:#000000"
-             id="tspan38736">before completing the merge.
+             id="tspan5547">before completing the merge.
 </tspan></tspan><tspan
            x="48.222656"
            y="581.45022"
-           id="tspan38742"><tspan
+           id="tspan5553"><tspan
              style="fill:#000000"
-             id="tspan38740">
+             id="tspan5551">
 </tspan></tspan><tspan
            x="48.222656"
            y="605.45022"
-           id="tspan38746"><tspan
-             style="font-weight:bold"
-             id="tspan38744">Pull request (or PR)
+           id="tspan5557"><tspan
+             style="font-weight:bold;fill:#000000"
+             id="tspan5555">Pull request (or PR)
 </tspan></tspan><tspan
            x="48.222656"
            y="629.45022"
-           id="tspan38750"><tspan
+           id="tspan5561"><tspan
              style="fill:#000000"
-             id="tspan38748">Request to merge a branch into another </tspan></tspan><tspan
+             id="tspan5559">Request to merge a branch into another </tspan></tspan><tspan
            x="48.222656"
            y="653.45022"
-           id="tspan38754"><tspan
+           id="tspan5565"><tspan
              style="fill:#000000"
-             id="tspan38752">branch. Must be reviewed and approved by </tspan></tspan><tspan
+             id="tspan5563">branch. Must be reviewed and approved by </tspan></tspan><tspan
            x="48.222656"
            y="677.45022"
-           id="tspan38758"><tspan
+           id="tspan5569"><tspan
              style="fill:#000000"
-             id="tspan38756">an admin of the GitHub repository.</tspan></tspan></text>
-    </g>
-    <g
+             id="tspan5567">an admin of the GitHub repository.</tspan></tspan></text></g><g
        id="g18172"
-       transform="translate(0.5399704,-26.191403)">
-      <rect
+       transform="translate(0.5399704,-26.191403)"><rect
          style="fill:#ffffff;fill-opacity:0.7;stroke:#dc8add;stroke-width:0.975077;stroke-dasharray:none"
          id="rect502-0-7"
          width="96.024925"
@@ -484,8 +456,7 @@
          x="108.31823"
          y="136.81068"
          ry="5"
-         rx="5" />
-      <rect
+         rx="5" /><rect
          style="fill:#613583;fill-opacity:0.998528;stroke:none;stroke-width:0.294801"
          id="rect9002-6-9"
          width="69.354485"
@@ -493,8 +464,7 @@
          x="121.65344"
          y="130.79176"
          rx="2"
-         ry="2" />
-      <text
+         ry="2" /><text
          xml:space="preserve"
          style="font-size:7.05556px;line-height:1.5;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';text-align:start;text-anchor:start;fill:#c01c28;fill-opacity:1;stroke:none;stroke-width:0.3"
          x="127.66526"
@@ -504,200 +474,917 @@
            id="tspan10529-6-0"
            style="font-size:7.05556px;fill:#ffffff;stroke:none;stroke-width:0.3"
            x="127.66526"
-           y="138.71609"> Online syncing</tspan></text>
-      <text
+           y="138.71609"> Online syncing</tspan></text><text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26458333,99.185014,102.35899)"
          id="text10915-1-2"
          style="font-size:16px;line-height:1.5;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';text-align:start;white-space:pre;shape-inside:url(#rect10917-6-8);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.13386"><tspan
            x="48.222656"
            y="173.45022"
-           id="tspan38764"><tspan
-             style="font-weight:bold"
-             id="tspan38760">Push</tspan><tspan
+           id="tspan5575"><tspan
+             style="font-weight:bold;fill:#000000"
+             id="tspan5571">Push</tspan><tspan
              style="fill:#000000"
-             id="tspan38762">
+             id="tspan5573">
 </tspan></tspan><tspan
            x="48.222656"
            y="197.45022"
-           id="tspan38768"><tspan
+           id="tspan5579"><tspan
              style="fill:#000000"
-             id="tspan38766">Send local git changes to an online repository </tspan></tspan><tspan
+             id="tspan5577">Send local commits to an online repository </tspan></tspan><tspan
            x="48.222656"
            y="221.45022"
-           id="tspan38772"><tspan
+           id="tspan5583"><tspan
              style="fill:#000000"
-             id="tspan38770">(e.g. GitHub)
+             id="tspan5581">(e.g. GitHub)
 </tspan></tspan><tspan
            x="48.222656"
            y="245.45022"
-           id="tspan38776"><tspan
+           id="tspan5587"><tspan
              style="fill:#000000"
-             id="tspan38774">
+             id="tspan5585">
 </tspan></tspan><tspan
            x="48.222656"
            y="269.45022"
-           id="tspan38782"><tspan
-             style="font-weight:bold"
-             id="tspan38778">Pull</tspan><tspan
+           id="tspan5593"><tspan
+             style="font-weight:bold;fill:#000000"
+             id="tspan5589">Pull</tspan><tspan
              style="fill:#000000"
-             id="tspan38780">
+             id="tspan5591">
 </tspan></tspan><tspan
            x="48.222656"
            y="293.45022"
-           id="tspan38786"><tspan
+           id="tspan5597"><tspan
              style="fill:#000000"
-             id="tspan38784">Synchronise the local git repository with an </tspan></tspan><tspan
+             id="tspan5595">Synchronise the local git repository with an </tspan></tspan><tspan
            x="48.222656"
            y="317.45022"
-           id="tspan38790"><tspan
+           id="tspan5601"><tspan
              style="fill:#000000"
-             id="tspan38788">online repository
+             id="tspan5599">online repository
 </tspan></tspan><tspan
            x="48.222656"
            y="341.45022"
-           id="tspan38794"><tspan
+           id="tspan5605"><tspan
              style="fill:#000000"
-             id="tspan38792">
+             id="tspan5603">
 </tspan></tspan><tspan
            x="48.222656"
            y="365.45022"
-           id="tspan38800"><tspan
-             style="font-weight:bold"
-             id="tspan38796">Fetch</tspan><tspan
+           id="tspan5611"><tspan
+             style="font-weight:bold;fill:#000000"
+             id="tspan5607">Fetch</tspan><tspan
              style="fill:#000000"
-             id="tspan38798">
+             id="tspan5609">
 </tspan></tspan><tspan
            x="48.222656"
            y="389.45022"
-           id="tspan38804"><tspan
+           id="tspan5615"><tspan
              style="fill:#000000"
-             id="tspan38802">Retrieve the latest file history from an online </tspan></tspan><tspan
+             id="tspan5613">Retrieve the latest file history from an online </tspan></tspan><tspan
            x="48.222656"
            y="413.45022"
-           id="tspan38808"><tspan
+           id="tspan5619"><tspan
              style="fill:#000000"
-             id="tspan38806">repository, without syncing the files
+             id="tspan5617">repository, without syncing the files
 </tspan></tspan><tspan
            x="48.222656"
            y="437.45022"
-           id="tspan38812"><tspan
+           id="tspan5623"><tspan
              style="fill:#000000"
-             id="tspan38810">
+             id="tspan5621">
 </tspan></tspan><tspan
            x="48.222656"
            y="461.45022"
-           id="tspan38818"><tspan
-             style="font-weight:bold"
-             id="tspan38814">Clone</tspan><tspan
+           id="tspan5629"><tspan
+             style="font-weight:bold;fill:#000000"
+             id="tspan5625">Clone</tspan><tspan
              style="fill:#000000"
-             id="tspan38816">
+             id="tspan5627">
 </tspan></tspan><tspan
            x="48.222656"
            y="485.45022"
-           id="tspan38822"><tspan
+           id="tspan5633"><tspan
              style="fill:#000000"
-             id="tspan38820">Create a local copy of an online repository
+             id="tspan5631">Create a local copy of an online repository
 </tspan></tspan><tspan
            x="48.222656"
            y="509.45022"
-           id="tspan38826"><tspan
+           id="tspan5637"><tspan
              style="fill:#000000"
-             id="tspan38824">
+             id="tspan5635">
 </tspan></tspan><tspan
            x="48.222656"
            y="533.45022"
-           id="tspan38830"><tspan
-             style="font-weight:bold"
-             id="tspan38828">Fork
+           id="tspan5641"><tspan
+             style="font-weight:bold;fill:#000000"
+             id="tspan5639">Fork
 </tspan></tspan><tspan
            x="48.222656"
            y="557.45022"
-           id="tspan38834"><tspan
+           id="tspan5645"><tspan
              style="fill:#000000"
-             id="tspan38832">Create an independent copy of an existing </tspan></tspan><tspan
+             id="tspan5643">Create an independent copy of an existing </tspan></tspan><tspan
            x="48.222656"
            y="581.45022"
-           id="tspan38838"><tspan
+           id="tspan5649"><tspan
              style="fill:#000000"
-             id="tspan38836">online repository</tspan></tspan></text>
-    </g>
-    <rect
-       style="fill:#ffffff;fill-opacity:0.7;stroke:#77767b;stroke-width:0.877404;stroke-dasharray:none"
-       id="rect502-0-7-5-4"
-       width="199.32626"
-       height="48.371593"
-       x="5.486186"
-       y="243.42738"
-       ry="5"
-       rx="5" />
-    <rect
-       style="fill:#5e5c64;fill-opacity:0.998528;stroke:none;stroke-width:0.294801"
-       id="rect9002-6-9-2-4"
-       width="69.354485"
-       height="12"
-       x="73.15078"
-       y="237.44901"
-       rx="2"
-       ry="2" />
-    <text
-       xml:space="preserve"
-       style="font-size:7.05556px;line-height:1.5;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';text-align:start;text-anchor:start;fill:#c01c28;fill-opacity:1;stroke:none;stroke-width:0.3"
-       x="77.575089"
-       y="245.65715"
-       id="text10531-2-2-5-3"><tspan
-         sodipodi:role="line"
-         id="tspan10529-6-0-4-0"
-         style="font-size:7.05556px;fill:#ffffff;stroke:none;stroke-width:0.3"
-         x="77.575089"
-         y="245.65715"> Repository files</tspan></text>
-    <text
+             id="tspan5647">online repository</tspan></tspan></text></g><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-4.3099594,212.89051)"
        id="text10915-1-2-7-8"
-       style="font-size:16px;line-height:1.5;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';text-align:start;white-space:pre;shape-inside:url(#rect10917-6-8-7-7);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.13386" />
-    <path
+       style="font-size:16px;line-height:1.5;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';text-align:start;white-space:pre;shape-inside:url(#rect10917-6-8-7-7);display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.13386" /><path
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        d="M 14.514072,19.346887 H 197.11764"
-       id="path18241" />
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,0,-10.583334)"
-       id="text37714"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;white-space:pre;shape-inside:url(#rect37716);display:inline;fill:#000000;fill-opacity:0.9;stroke:#000000;stroke-width:1.88976;stroke-dasharray:none"><tspan
-         x="38.832031"
-         y="981.99719"
-         id="tspan38842"><tspan
-           style="font-weight:bold;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';stroke:none"
-           id="tspan38840">Readme
+       id="path18241" /><g
+       id="g2128"><rect
+         style="fill:#ffffff;fill-opacity:0.7;stroke:#77767b;stroke-width:0.877404;stroke-dasharray:none"
+         id="rect502-0-7-5-4"
+         width="199.32626"
+         height="48.371593"
+         x="5.486186"
+         y="243.42738"
+         ry="5"
+         rx="5" /><rect
+         style="fill:#5e5c64;fill-opacity:0.998528;stroke:none;stroke-width:0.294801"
+         id="rect9002-6-9-2-4"
+         width="69.354485"
+         height="12"
+         x="73.15078"
+         y="237.44901"
+         rx="2"
+         ry="2" /><text
+         xml:space="preserve"
+         style="font-size:7.05556px;line-height:1.5;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';text-align:start;text-anchor:start;fill:#c01c28;fill-opacity:1;stroke:none;stroke-width:0.3"
+         x="77.575089"
+         y="245.65715"
+         id="text10531-2-2-5-3"><tspan
+           sodipodi:role="line"
+           id="tspan10529-6-0-4-0"
+           style="font-size:7.05556px;fill:#ffffff;stroke:none;stroke-width:0.3"
+           x="77.575089"
+           y="245.65715"> Repository files</tspan></text><text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,0,-10.583334)"
+         id="text37714"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.5;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;white-space:pre;shape-inside:url(#rect37716);display:inline;fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:1.88976;stroke-dasharray:none"><tspan
+           x="38.832031"
+           y="981.99719"
+           id="tspan5653"><tspan
+             style="font-weight:bold;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif'"
+             id="tspan5651">Readme
 </tspan></tspan><tspan
-         x="38.832031"
-         y="1006.7004"
-         id="tspan38844">A general description of the repository, including its purpose, how to use the code, and who the </tspan><tspan
-         x="38.832031"
-         y="1031.4036"
-         id="tspan38846">authors are (with contact information). Written in markdown format.
+           x="38.832031"
+           y="1006.7004"
+           id="tspan5655">A general description of the repository, including its purpose, how to use the code, and who the authors </tspan><tspan
+           x="38.832031"
+           y="1030.7004"
+           id="tspan5657">are (with contact information). Written in markdown format.
 </tspan><tspan
-         x="38.832031"
-         y="1056.1068"
-         id="tspan38850"><tspan
-           style="font-weight:bold;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';stroke:none"
-           id="tspan38848">.gitignore
+           x="38.832031"
+           y="1054.7003"
+           id="tspan5661"><tspan
+             style="font-weight:bold;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif'"
+             id="tspan5659">.gitignore
 </tspan></tspan><tspan
-         x="38.832031"
-         y="1080.8101"
-         id="tspan38854">A list of files that should <tspan
+           x="38.832031"
+           y="1079.4036"
+           id="tspan5665">A list of files that should <tspan
    style="font-style:italic"
-   id="tspan38852">not </tspan>be tracked by git. Use wildcards (*) to match patterns, e.g. *.Rproj
+   id="tspan5663">not </tspan>be tracked by git. Use wildcards (*) to match patterns, e.g. *.Rproj
 </tspan><tspan
-         x="38.832031"
-         y="1105.5133"
-         id="tspan38858"><tspan
-           style="font-weight:bold;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif';stroke:none"
-           id="tspan38856">License
+           x="38.832031"
+           y="1103.4036"
+           id="tspan5669"><tspan
+             style="font-weight:bold;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif'"
+             id="tspan5667">License
 </tspan></tspan><tspan
-         x="38.832031"
-         y="1130.2165"
-         id="tspan38860">Description of terms for reuse of the repository contents. CC-BY = free reuse with attribution.</tspan></text>
-  </g>
-</svg>
+           x="38.832031"
+           y="1128.1068"
+           id="tspan5671">Description of terms for reuse of the repository contents. CC-BY = free reuse with attribution.</tspan></text><image
+         width="12.812421"
+         height="12.812421"
+         preserveAspectRatio="none"
+         xlink:href="data:image/jpeg;base64,/9j/4QEWRXhpZgAATU0AKgAAAAgACQEOAAIAAAAYAAAAegESAAMAAAABAAEAAAEaAAUAAAABAAAA
+vAEbAAUAAAABAAAAxAEoAAMAAAABAAIAAAE7AAIAAAAHAAAAkgITAAMAAAABAAEAAIKYAAIAAAAh
+AAAAmodpAAQAAAABAAAAzAAAAABHaXQgaWNvbiBpbiBDb2xvciBzdHlsZQBJY29uczgAAMKpIENv
+cHlyaWdodCBJY29uczggLSBpY29uczguY29tAAAAAABIAAAAAQAAAEgAAAABAAWQAAAHAAAABDAy
+MTCgAAAHAAAABDAxMDCgAQADAAAAAf//AACgAgAEAAAAAQAABLCgAwAEAAAAAQAABLAAAAAA/+EU
+C2h0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8APD94cGFja2V0IGJlZ2luPSfvu78nIGlkPSdX
+NU0wTXBDZWhpSHpyZVN6TlRjemtjOWQnPz4KPHg6eG1wbWV0YSB4bWxuczp4PSdhZG9iZTpuczpt
+ZXRhLycgeDp4bXB0az0nSW1hZ2U6OkV4aWZUb29sIDEzLjM1Jz4KPHJkZjpSREYgeG1sbnM6cmRm
+PSdodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjJz4KCiA8cmRmOkRl
+c2NyaXB0aW9uIHJkZjphYm91dD0nJwogIHhtbG5zOmRjPSdodHRwOi8vcHVybC5vcmcvZGMvZWxl
+bWVudHMvMS4xLyc+CiAgPGRjOmNyZWF0b3I+CiAgIDxyZGY6U2VxPgogICAgPHJkZjpsaT5JY29u
+czg8L3JkZjpsaT4KICAgPC9yZGY6U2VxPgogIDwvZGM6Y3JlYXRvcj4KICA8ZGM6ZGVzY3JpcHRp
+b24+CiAgIDxyZGY6QWx0PgogICAgPHJkZjpsaSB4bWw6bGFuZz0neC1kZWZhdWx0Jz5HaXQgaWNv
+biBpbiBDb2xvciBzdHlsZTwvcmRmOmxpPgogICA8L3JkZjpBbHQ+CiAgPC9kYzpkZXNjcmlwdGlv
+bj4KICA8ZGM6cmlnaHRzPgogICA8cmRmOkFsdD4KICAgIDxyZGY6bGkgeG1sOmxhbmc9J3gtZGVm
+YXVsdCc+wqkgQ29weXJpZ2h0IEljb25zOCAtIGljb25zOC5jb208L3JkZjpsaT4KICAgPC9yZGY6
+QWx0PgogIDwvZGM6cmlnaHRzPgogPC9yZGY6RGVzY3JpcHRpb24+CgogPHJkZjpEZXNjcmlwdGlv
+biByZGY6YWJvdXQ9JycKICB4bWxuczpwaG90b3Nob3A9J2h0dHA6Ly9ucy5hZG9iZS5jb20vcGhv
+dG9zaG9wLzEuMC8nPgogIDxwaG90b3Nob3A6Q3JlZGl0PkltYWdlIGZyb20gaWNvbnM4LmNvbTwv
+cGhvdG9zaG9wOkNyZWRpdD4KICA8cGhvdG9zaG9wOkRhdGVDcmVhdGVkPjIwMTktMTEtMjFUMjA6
+NTU6MDhaPC9waG90b3Nob3A6RGF0ZUNyZWF0ZWQ+CiAgPHBob3Rvc2hvcDpIZWFkbGluZT5HaXQg
+aWNvbiBpbiBDb2xvciBzdHlsZTwvcGhvdG9zaG9wOkhlYWRsaW5lPgogIDxwaG90b3Nob3A6SW5z
+dHJ1Y3Rpb25zPkltYWdlIGNyZWF0ZWQgYnkgaWNvbnM4LmNvbS4gVXNlIGFuZCBjb3B5aW5nIGFy
+ZSBwZXJtaXR0ZWQgd2l0aCBhdHRyaWJ1dGlvbiwgaW5jbHVkaW5nIGEgdmlzaWJsZSBsaW5rIHRv
+IGh0dHBzOi8vaWNvbnM4LmNvbS48L3Bob3Rvc2hvcDpJbnN0cnVjdGlvbnM+CiAgPHBob3Rvc2hv
+cDpTb3VyY2U+aHR0cHM6Ly9pY29uczguY29tPC9waG90b3Nob3A6U291cmNlPgogPC9yZGY6RGVz
+Y3JpcHRpb24+CgogPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9JycKICB4bWxuczpwbHVzPSdo
+dHRwOi8vbnMudXNlcGx1cy5vcmcvbGRmL3htcC8xLjAvJz4KICA8cGx1czpDb3B5cmlnaHRPd25l
+cj4KICAgPHJkZjpTZXE+CiAgICA8cmRmOmxpIHJkZjpwYXJzZVR5cGU9J1Jlc291cmNlJz4KICAg
+ICA8cGx1czpDb3B5cmlnaHRPd25lcklEPmh0dHBzOi8vaWNvbnM4LmNvbTwvcGx1czpDb3B5cmln
+aHRPd25lcklEPgogICAgIDxwbHVzOkNvcHlyaWdodE93bmVyTmFtZT5JY29uczg8L3BsdXM6Q29w
+eXJpZ2h0T3duZXJOYW1lPgogICAgPC9yZGY6bGk+CiAgIDwvcmRmOlNlcT4KICA8L3BsdXM6Q29w
+eXJpZ2h0T3duZXI+CiAgPHBsdXM6SW1hZ2VDcmVhdG9yPgogICA8cmRmOlNlcT4KICAgIDxyZGY6
+bGkgcmRmOnBhcnNlVHlwZT0nUmVzb3VyY2UnPgogICAgIDxwbHVzOkltYWdlQ3JlYXRvcklEPmh0
+dHBzOi8vaWNvbnM4LmNvbSA8L3BsdXM6SW1hZ2VDcmVhdG9ySUQ+CiAgICAgPHBsdXM6SW1hZ2VD
+cmVhdG9yTmFtZT5JY29uczg8L3BsdXM6SW1hZ2VDcmVhdG9yTmFtZT4KICAgIDwvcmRmOmxpPgog
+ICA8L3JkZjpTZXE+CiAgPC9wbHVzOkltYWdlQ3JlYXRvcj4KICA8cGx1czpMaWNlbnNvcj4KICAg
+PHJkZjpTZXE+CiAgICA8cmRmOmxpIHJkZjpwYXJzZVR5cGU9J1Jlc291cmNlJz4KICAgICA8cGx1
+czpMaWNlbnNvcklEPmh0dHBzOi8vaWNvbnM4LmNvbTwvcGx1czpMaWNlbnNvcklEPgogICAgIDxw
+bHVzOkxpY2Vuc29yTmFtZT5JY29uczg8L3BsdXM6TGljZW5zb3JOYW1lPgogICAgIDxwbHVzOkxp
+Y2Vuc29yVVJMPmh0dHBzOi8vaWNvbnM4LmNvbS9saWNlbnNlPC9wbHVzOkxpY2Vuc29yVVJMPgog
+ICAgPC9yZGY6bGk+CiAgIDwvcmRmOlNlcT4KICA8L3BsdXM6TGljZW5zb3I+CiA8L3JkZjpEZXNj
+cmlwdGlvbj4KCiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0nJwogIHhtbG5zOnhtcFJpZ2h0
+cz0naHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3JpZ2h0cy8nPgogIDx4bXBSaWdodHM6VXNh
+Z2VUZXJtcz4KICAgPHJkZjpBbHQ+CiAgICA8cmRmOmxpIHhtbDpsYW5nPSd4LWRlZmF1bHQnPkFs
+bCByaWdodHMgcmVzZXJ2ZWQuIFVzZSBvZiB0aGlzIGltYWdlIHJlcXVpcmVzIGEgbGljZW5zZSBm
+cm9tIGljb25zOC5jb20uIE1vZGlmaWNhdGlvbiBhbmQgY29tbWVyY2lhbCB1c2UgYXJlIGFsbG93
+ZWQgb25seSB1bmRlciB0aGUgbGljZW5zZSB0ZXJtcy4gUmVkaXN0cmlidXRpb24gb3IgcmVzYWxl
+IG9mIHN0YW5kYWxvbmUgZmlsZXMgaXMgcHJvaGliaXRlZC4gQWxsIHJpZ2h0cyBiZWxvbmcgdG8g
+SWNvbnM4LjwvcmRmOmxpPgogICA8L3JkZjpBbHQ+CiAgPC94bXBSaWdodHM6VXNhZ2VUZXJtcz4K
+ICA8eG1wUmlnaHRzOldlYlN0YXRlbWVudD5odHRwczovL2ljb25zOC5jb20vbGljZW5zZTwveG1w
+UmlnaHRzOldlYlN0YXRlbWVudD4KIDwvcmRmOkRlc2NyaXB0aW9uPgo8L3JkZjpSREY+CjwveDp4
+bXBtZXRhPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo8P3hwYWNrZXQgZW5kPSd3Jz8+
+/+0A8FBob3Rvc2hvcCAzLjAAOEJJTQQEAAAAAADTHAIoAHxJbWFnZSBjcmVhdGVkIGJ5IGljb25z
+OC5jb20uIFVzZSBhbmQgY29weWluZyBhcmUgcGVybWl0dGVkIHdpdGggYXR0cmlidXRpb24sIGlu
+Y2x1ZGluZyBhIHZpc2libGUgbGluayB0byBodHRwczovL2ljb25zOC5jb20uHAJQAAZJY29uczgc
+AnQAH6kgQ29weXJpZ2h0IEljb25zOCAtIGljb25zOC5jb20cAngAF0dpdCBpY29uIGluIENvbG9y
+IHN0eWxlHAIAAAIABAD/4gHwSUNDX1BST0ZJTEUAAQEAAAHgbGNtcwQgAABtbnRyUkdCIFhZWiAH
+4gADABQACQAOAB1hY3NwTVNGVAAAAABzYXdzY3RybAAAAAAAAAAAAAAAAAAA9tYAAQAAAADTLWhh
+bmR56b9WWj4BtoMjhVVG90+qAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAApkZXNjAAAA
+/AAAACRjcHJ0AAABIAAAACJ3dHB0AAABRAAAABRjaGFkAAABWAAAACxyWFlaAAABhAAAABRnWFla
+AAABmAAAABRiWFlaAAABrAAAABRyVFJDAAABwAAAACBnVFJDAAABwAAAACBiVFJDAAABwAAAACBt
+bHVjAAAAAAAAAAEAAAAMZW5VUwAAAAgAAAAcAHMAUgBHAEJtbHVjAAAAAAAAAAEAAAAMZW5VUwAA
+AAYAAAAcAEMAQwAwAABYWVogAAAAAAAA9tYAAQAAAADTLXNmMzIAAAAAAAEMPwAABd3///MmAAAH
+kAAA/ZL///uh///9ogAAA9wAAMBxWFlaIAAAAAAAAG+gAAA48gAAA49YWVogAAAAAAAAYpYAALeJ
+AAAY2lhZWiAAAAAAAAAkoAAAD4UAALbEcGFyYQAAAAAAAwAAAAJmaQAA8qcAAA1ZAAAT0AAAClv/
+2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSop
+GR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgo
+KCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCASwBLADASIAAhEBAxEB/8QAHAABAAIDAQEBAAAA
+AAAAAAAAAAYHAQIIBQQD/8QAQhABAAIBAgMGAgcGBAUEAwEAAAECAwQFBhExByFBUWGBYnESEyI2
+dKGzFCMyUpGxJDNCwRVykqLRQ4LC4RYlY7L/xAAbAQEAAgMBAQAAAAAAAAAAAAAAAwYEBQcCAf/E
+ADkRAQACAgAEBAIJAwQCAgMAAAABAwIEBREhMRJBUeFxsQYTIjM0YYGh0TKR8BRSwfEVQhYkI1Ny
+/9oADAMBAAIRAxEAPwDqkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+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
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB//9k=
+"
+         id="image4360"
+         x="38.643322"
+         y="3.7588398"
+         style="stroke-width:23.0191"
+         clip-path="url(#clipPath4366)"
+         transform="matrix(1.4353691,0,0,1.4353691,-53.125533,-4.9101507)" /></g></g></svg>
