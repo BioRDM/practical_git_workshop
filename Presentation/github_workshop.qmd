@@ -194,8 +194,6 @@ A *practical* overview of the repository, in **markdown** format
 [github.com/BioRDM/Network-Analysis](https://github.com/BioRDM/Network-Analysis)
 :::
 
-# Short break
-
 # git branches
 
 ## Why use branches
@@ -219,7 +217,7 @@ A *practical* overview of the repository, in **markdown** format
 - Create a new branch called "dev" in your repository
 ![](./figures/RStudio_git_tab.png){width=60%}
 
-- Make some changes to a file
+- Make some changes to a file (on the dev branch)
 - Stage, commit, push
 - Switch between branches (= "checkout")
   - The modified file changes depending on the branch
@@ -304,7 +302,7 @@ set_min_sleep <- function(sessions, min_sleep) {
 ::: {.column width=75%}
 <br>
 ```{.r}
-source("R/filtering.R")
+source("filtering.R")
 ```
 
 - One file per "topic"
@@ -330,8 +328,6 @@ set_min_sleep <- function(sessions, min_sleep) {
 ```
 
 ...commit and push your changes to github
-
-# Short break
 
 # GitHub functionalities
 
